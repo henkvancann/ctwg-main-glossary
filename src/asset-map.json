@@ -20,6 +20,7 @@
       "assets/js/font-awesome.js",
       "assets/js/popper.js",
       "assets/js/tippy.js",
+      "assets/js/editItem.js",
       "assets/js/index.js"
     ]
   }
