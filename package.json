@@ -10,7 +10,8 @@
   "scripts": {
     "edit": "node -e \"require('spec-up')()\"",
     "render": "node -e \"require('spec-up')({ nowatch: true })\"",
-    "dev": "node -e \"require('spec-up')({ dev: true })\""
+    "dev": "node -e \"require('spec-up')({ dev: true })\"",
+    "split": "node -e \"require('./src/split-terms-and-definitions')({ split: true })\""
   },
   "keywords": [
     "spec",
