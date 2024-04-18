@@ -8,9 +8,9 @@
     "url": "git+https://github.com/decentralized-identity/spec-up.git"
   },
   "scripts": {
-    "edit": "node -e \"require('spec-up')()\"",
-    "render": "node -e \"require('spec-up')({ nowatch: true })\"",
-    "dev": "node -e \"require('spec-up')({ dev: true })\"",
+    "edit": "node -e \"require('./index')()\"",
+    "render": "node -e \"require('./index')({ nowatch: true })\"",
+    "dev": "node -e \"require('./index')({ dev: true })\"",
     "split": "node -e \"require('./src/split-terms-and-definitions')({ split: true })\""
   },
   "keywords": [
