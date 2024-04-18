@@ -1,4 +1,6 @@
-[[def: third party]]:
+[[def: three party model]]:
 
-~ A [[ref: party]] that is not directly involved in the trust relationship between a [[ref: first party]] and a [[ref: second party]], but provides supporting services to either or both of them.
+~ The issuer—holder—verifier model used by all types of [[ref: physical credentials]] and [[ref: digital credentials]] to enable [[ref: transitive trust decisions]].
+
+~ Also known as: [[ref: trust triangle]].
 

@@ -1,8 +1,6 @@
-[[def: software agent]]:
+[[def: Sovrin Foundation]]:
 
-~ In computer science, a software agent is a computer program that acts for a user or other program in a relationship of [[ref: agency]], which derives from the Latin agere (to do): an agreement to act on one's behalf. A [[ref: user agent]] is a specific type of software agent that is used directly by an end-user as the [[ref: principal]].
+~ A 501 (c)(4) nonprofit organization established to administer the [[ref: governance framework]] governing the Sovrin Network, a public service utility enabling [[ref: self-sovereign identity]] on the internet. The Sovrin Foundation is an independent [[ref: organization]] that is responsible for ensuring the Sovrin [[ref: identity]] system is public and globally accessible.
 
-~ Source: [Wikipedia](https://en.wikipedia.org/wiki/Software_agent).
-
-~ See also: [[ref: digital agent]].
+~ For more information, see: <https://sovrin.org/>
 

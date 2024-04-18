@@ -1,6 +1,6 @@
-[[def: principal]]:
+[[def: Principles of SSI]]:
 
-~ The [party](https://essif-lab.github.io/framework/docs/terms/party) for whom, or on behalf of whom, an [actor](https://essif-lab.github.io/framework/docs/terms/actor) is executing an [action](https://essif-lab.github.io/framework/docs/terms/action) (this [actor](https://essif-lab.github.io/framework/docs/terms/actor) is then called an [agent](https://essif-lab.github.io/framework/docs/terms/agent) of that [party](https://essif-lab.github.io/framework/docs/terms/party)).
+~ A set of principles for [[ref: self-sovereign identity]] systems originally defined by the Sovrin Foundation and republished by the [[ref: ToIP Foundation]].
 
-~ Source: [eSSIF-Lab](https://essif-lab.github.io/framework/docs/essifLab-glossary#principal)
+~ For more information, see: <https://sovrin.org/principles-of-ssi/> and <https://trustoverip.org/wp-content/uploads/2021/10/ToIP-Principles-of-SSI.pdf>
 

@@ -1,6 +1,5 @@
-[[def: appropriate friction]]:
+[[def: assurance level, assurance levels]]:
 
-~ A user-experience design principle for information systems (such as digital wallets) specifying that the level of attention required of the [[ref: holder]] for a particular transaction should provide a reasonable opportunity for an informed choice by the [[ref: holder]].
+~ A level of confidence in a [[ref: claim]] that may be relied on by others. Different types of assurance levels are defined for different types of trust assurance mechanisms. Examples include [[ref: authenticator assurance level]], [federation assurance level](federation-assurance-level), and [identity assurance level](identity-assurance-level).
 
-~ Source: [PEMC IGR](https://kantarainitiative.org/download/pemc-implementors-guidance-report/).
 

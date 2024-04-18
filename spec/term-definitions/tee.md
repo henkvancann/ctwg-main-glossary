@@ -1,6 +1,4 @@
-[[def: terms community]]:
+[[def: terms wiki]]:
 
-~ A group of [[ref: parties]] who share the need for a common [[ref: terminology]].
-
-~ See also: [[ref: trust community]].
+~ A wiki website used by a [[ref: terms community]] to input, maintain, and publish its [[ref: terminology]]. The ToIP Foundation Concepts and Terminology Working Group has established a simple template for GitHub-based terms wikis.
 

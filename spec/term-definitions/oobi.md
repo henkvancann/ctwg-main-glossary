@@ -1,8 +1,6 @@
-[[def: OpenWallet Foundation]]:
+[[def: operational circumstances]]:
 
-~ A non-profit project of the [Linux Foundation](https://www.linuxfoundation.org/) chartered to build a world-class open source [[ref: wallet engine]].
+~ In the context of privacy protection, this term denotes the context in which privacy trade-off decisions are made. It includes the regulatory environment and other non-technical factors that bear on what reasonable privacy expectations might be.
 
-~ See also: [[ref: Decentralized Identity Foundation]], [[ref: ToIP Foundation]].
-
-~ For more information, see: <https://openwallet.foundation/>
+~ Source: [PEMC IGR](https://kantarainitiative.org/download/pemc-implementors-guidance-report/)
 

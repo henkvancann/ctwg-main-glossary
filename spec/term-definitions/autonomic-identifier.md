@@ -1,6 +1,6 @@
-[[def: autonomic identifier]]:
+[[def: biometric]]:
 
-~ The specific type of [self-certifying identifier](self-certifying-identifier) specified by the [[ref: KERI]] specifications.
+~ A measurable physical characteristic or personal behavioral trait used to recognize the [[ref: AID]], or verify the [[ref: claimed]] [[ref: identity]], of an applicant. Facial images, fingerprints, and iris scan samples are all examples of biometrics.
 
-~ Also known as: [[ref: AID]].
+~ Source: [NIST](https://csrc.nist.gov/glossary/term/biometric)
 

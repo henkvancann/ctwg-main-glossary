@@ -1,6 +1,6 @@
-[[def: wallet engine]]:
+[[def: witness]]:
 
-~ The set of software components that form the core of a [[ref: digital wallet]], but which by themselves are not sufficient to deliver a fully functional wallet for use by a [[ref: digital agent]] (of a [[ref: principal]]). A wallet engine is to a [[ref: digital wallet]] what a [browser engine](https://en.wikipedia.org/wiki/Browser_engine) is to a web browser.
+~ A computer system that receives, [[ref: verifies]], and stores [[ref: proofs]] of [[ref: key events]] for a [[ref: verifiable identifier]] (especially an [[ref: autonomous identifier]]). Each witness controls its own [[ref: verifiable identifier]] used to sign [[ref: key event]] messages stored by the witness. A witness may use any suitable computer system or database architecture, including a file, centralized database, distributed database, [[ref: distributed ledger]], or [[ref: blockchain]].
 
-~ For more information: The charter of the [[ref: OpenWallet Foundation]] is to produce an open source [[ref: digital wallet]] engine.
+~ Note: [[ref: KERI]] is an example of a [[ref: key management system]] that uses witnesses.
 

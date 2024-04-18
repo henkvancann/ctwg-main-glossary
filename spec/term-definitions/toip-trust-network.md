@@ -1,12 +1,8 @@
-[[def: transaction]]:
+[[def: transitive trust decision]]:
 
-~ A discrete event between a user and a system that supports a business or programmatic purpose. A digital system may have multiple categories or types of transactions, which may require separate analysis within the overall digital identity [[ref: risk assessment]].
+~ A [[ref: trust decision]] made by a [[ref: first party]] about a [[ref: second party]] or another [[ref: entity]] based on information about the [[ref: second party]] or the other [[ref: entity]] that is obtained from one or more [[ref: third parties]].
 
-~ Source: [NIST-CSRC](https://csrc.nist.gov/glossary/term/transaction).
+~ Note: A primary purpose of [[ref: digital credentials]], [[ref: chained credentials]], and [[ref: trust registries]] is to facilitate transitive trust decisions.
 
-~ See also: [[ref: connection]].
-
-~ Supporting definitions:
-
-~ eSSIF-Lab: the exchange of goods, services, funds, or data between some [parties](https://essif-lab.github.io/framework/docs/terms/party) (called [participants](https://essif-lab.github.io/framework/docs/terms/participant) of the [transaction](https://essif-lab.github.io/framework/docs/terms/transaction)).
+~ For more information, see: [Design Principles for the ToIP Stack](https://trustoverip.org/our-work/design-principles/).
 

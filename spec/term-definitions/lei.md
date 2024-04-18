@@ -1,4 +1,4 @@
-[[def: LEI]]:
+[[def: level of assurance]]:
 
-~ See: [[ref: Legal Entity Identifier]].
+~ See: [[ref: assurance level]].
 

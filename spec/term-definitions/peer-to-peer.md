@@ -1,6 +1,6 @@
-[[def: persistent connection]]:
+[[def: personal data]]:
 
-~ A [[ref: connection]] that is able to persist across multiple [[ref: communication sessions]]. In a ToIP context, a persistent connection is established when two [[ref: ToIP endpoints]] exchange [[ref: verifiable identifiers]] that they can use to re-establish the [[ref: connection]] with each other whenever it is needed.
+~ Any information relating to an identified or identifiable [[ref: natural person]] (called a [[ref: data subject]] under [[ref: GDPR]]).
 
-~ Contrast with: [[ref: ephemeral connection]].
+~ Source: [NIST-CSRC](https://csrc.nist.gov/glossary/term/personal_data).
 

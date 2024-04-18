@@ -1,4 +1,4 @@
-[[def: credential family]]:
+[[def: credential governance framework]]:
 
-~ A set of related [[ref: digital credentials]] defined by a [[ref: governing body]] (typically in a [[ref: governance framework]]) to empower [[ref: transitive trust decisions]] among the participants in a [[ref: digital trust ecosystem]].
+~ A [[ref: governance framework]] for a [[ref: credential family]]. A credential governance framework may be included within or referenced by an [[ref: ecosystem governance framework]].
 

@@ -1,6 +1,8 @@
-[[def: Sybil attack]]:
+[[def: system of record]]:
 
-~ A Sybil attack is a type of attack on a computer network service in which an attacker subverts the service's [[ref: reputation system]] by creating a large number of [[ref: pseudonymous]] [[ref: identities]] and uses them to gain a disproportionately large influence. It is named after the subject of the book _Sybil_, a case study of a woman diagnosed with dissociative identity disorder.
+~ A system of record (SOR) or source system of record (SSoR) is a data management term for an information storage system (commonly implemented on a computer system running a database management system) that is the [[ref: authoritative data source]] for a given data element or piece of information.
 
-~ Source: [Wikipedia](https://en.wikipedia.org/wiki/Sybil_attack).
+~ Source: [Wikipedia](https://en.wikipedia.org/wiki/System_of_record)
+
+~ See also: [[ref: authoritative source]], [[ref: trust registry]], [[ref: verifiable data registry]].
 

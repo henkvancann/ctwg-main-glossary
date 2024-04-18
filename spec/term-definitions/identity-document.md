@@ -1,4 +1,10 @@
-[[def: identity document]]:
+[[def: identity proofing]]:
 
-~ A physical or digital document containing [[ref: identity data]]. A [[ref: credential]] is a specialized form of identity document. Birth certificates, bank statements, and utility bills can all be considered identity documents.
+~ The process of a [[ref: party]] gathering sufficient [[ref: identity data]] to establish an [[ref: identity]] for a particular [[ref: subject]] at a particular [[ref: identity assurance level]].
+
+~ See also: [[ref: identity binding]].
+
+~ Supporting definitions:
+
+~ [NIST-CSRC](https://csrc.nist.gov/glossary/term/identity_proofing): The process of providing sufficient information (e.g., identity history, credentials, documents) to establish an identity.
 

@@ -1,6 +1,5 @@
-[[def: authorization]]
+[[def: out-of-band introduction, OOBI]]
 
-~ The process of verifying that a requested action or service is approved for a specific entity.
-~ Source: NIST-CSRC.
-~ * See also: [[ref: permission]].
+~ A process by which two or more entities exchange VIDs in order to form a cryptographically verifiable connection (e.g., a ToIP connection), such as by scanning a QR code (in person or remotely) or clicking a deep link.
+~ * Also known as: [[ref:OOBI]].
 

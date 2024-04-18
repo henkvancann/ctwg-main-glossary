@@ -1,6 +1,6 @@
-[[def: reputation]]:
+[[def: reputation graph]]:
 
-~ The reputation or prestige of a social entity (a [[ref: person]], a social group, an [[ref: organization]], or a place) is an opinion about that entity – typically developed as a result of social evaluation on a set of criteria, such as behavior or performance.
+~ A graph of the [[ref: reputation]] relationships between different entities in a [[ref: trust community]]. In a [[ref: digital trust ecosystem]], the [[ref: governing body]] may be one [[ref: trust root]] of a reputation graph. In some cases, a reputation graph can be traversed by making queries to one or more [[ref: trust registries]].
 
-~ Source: [Wikipedia](https://en.wikipedia.org/wiki/Reputation).
+~ See also: [[ref: authorization graph]], [[ref: governance graph]], [[ref: trust graph]].
 

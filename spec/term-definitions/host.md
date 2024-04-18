@@ -1,10 +1,10 @@
-[[def: host]]:
+[[def: hourglass model]]:
 
-~ A host is any hardware device that has the capability of permitting access to a network via a user interface, specialized software, [[ref: network address]], [[ref: protocol stack]], or any other means. Some examples include, but are not limited to, computers, personal electronic devices, thin clients, and multi-functional devices.
+~ An architectural model for layered systems—and specifically for the [[ref: protocol layers]] in a [[ref: protocol stack]]—in which a diversity of supporting protocols and services at the lower layers are able to support a great diversity of protocols and applications at the higher layers through the use of a single protocol in the [[ref: spanning layer]] in the middle—the “neck” of the hourglass.
 
-~ Source: [NIST-CSRC](https://csrc.nist.gov/glossary/term/host).
+~ See also: [[ref: trust spanning protocol]].
 
-~ Supporting definitions:
+~ For more information, see: <https://trustoverip.org/permalink/Design-Principles-for-the-ToIP-Stack-V1.0-2022-11-17.pdf> and <https://cacm.acm.org/magazines/2019/7/237714-on-the-hourglass-model/abstract>
 
-~ [Wikipedia](https://en.wikipedia.org/wiki/Host_\(network\)): A network host is a [computer](https://en.wikipedia.org/wiki/Computer) or other device connected to a [computer network](https://en.wikipedia.org/wiki/Computer_network). A host may work as a [server](https://en.wikipedia.org/wiki/Server_\(computing\)) offering information resources, services, and applications to users or other hosts on the network. Hosts are assigned at least one [network address](https://en.wikipedia.org/wiki/Network_address). A computer participating in networks that use the [Internet protocol suite](https://en.wikipedia.org/wiki/Internet_protocol_suite) may also be called an IP host. Specifically, computers participating in the [Internet](https://en.wikipedia.org/wiki/Internet) are called Internet hosts. Internet hosts and other IP hosts have one or more [IP addresses](https://en.wikipedia.org/wiki/IP_address) assigned to their network interfaces.
+~ Note: The Internet’s [[ref: TCP/IP stack]] follows the hourglass model, and it is the design model for the [[ref: ToIP stack]].
 

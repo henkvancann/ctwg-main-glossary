@@ -1,6 +1,8 @@
-[[def: Sovrin Foundation]]:
+[[def: spanning layer]]:
 
-~ A 501 (c)(4) nonprofit organization established to administer the [[ref: governance framework]] governing the Sovrin Network, a public service utility enabling [[ref: self-sovereign identity]] on the internet. The Sovrin Foundation is an independent [[ref: organization]] that is responsible for ensuring the Sovrin [[ref: identity]] system is public and globally accessible.
+~ A specific layer within a [[ref: protocol stack]] that consists of a single protocol explicitly designed to provide interoperability between the [[ref: protocols layers]] above it and below it.
 
-~ For more information, see: <https://sovrin.org/>
+~ See also: [[ref: hourglass model]], [[ref: trust spanning layer]].
+
+~ For more information, see: <https://www.isi.edu/newarch/iDOCS/final.finalreport.pdf>, National Academies of Sciences, Engineering, and Medicine. 1997. The Unpredictable Certainty: White Papers. Washington, DC: The National Academies Press. <https://doi.org/10.17226/6062>.
 

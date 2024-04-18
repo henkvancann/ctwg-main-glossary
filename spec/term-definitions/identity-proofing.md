@@ -1,10 +1,8 @@
-[[def: identity proofing]]:
+[[def: identity provider]]:
 
-~ The process of a [[ref: party]] gathering sufficient [[ref: identity data]] to establish an [[ref: identity]] for a particular [[ref: subject]] at a particular [[ref: identity assurance level]].
+~ An identity provider (abbreviated IdP or IDP) is a system [[ref: entity]] that creates, maintains, and manages [[ref: identity]] information for [[ref: principals]] and also provides [[ref: authentication]] services to relying applications within a [[ref: federation]] or distributed network.
 
-~ See also: [[ref: identity binding]].
+~ Source: [Wikipedia](https://en.wikipedia.org/wiki/Identity_provider).
 
-~ Supporting definitions:
-
-~ [NIST-CSRC](https://csrc.nist.gov/glossary/term/identity_proofing): The process of providing sufficient information (e.g., identity history, credentials, documents) to establish an identity.
+~ Note: The term “identity provider” is used in [[ref: federated identity]] systems because it is a required component of their architecture. By contrast, [[ref: decentralized identity]] and [[ref: self-sovereign identity]] systems do not use the term because they are architected to enable [[ref: entities]] to create and control their own [[ref: digital identities]] without the need to depend on an external provider.
 

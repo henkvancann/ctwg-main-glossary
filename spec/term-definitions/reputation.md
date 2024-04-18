@@ -1,6 +1,8 @@
-[[def: reputation system]]:
+[[def: requirement, requirements]]:
 
-~ Reputation systems are programs or algorithms that allow users to rate each other in online communities in order to build [[ref: trust]] through [[ref: reputation]]. Some common uses of these systems can be found on e-commerce websites such as eBay, Amazon.com, and Etsy as well as online advice communities such as Stack Exchange.
+~ A specified condition or behavior to which a system needs to [[ref: comply]]. [[ref: Technical requirements]] are defined in [[ref: technical specifications]] and implemented in computer systems to be executed by software [[ref: actors]]. [[ref: Governance requirements]] are defined in [[ref: governance documents]] that specify [[ref: policies]] and procedures to be executed by human [[ref: actors]]. In ToIP architecture, requirements are expressed using the keywords defined in Internet RFC 2119.
 
-~ Source: [Wikipedia](https://en.wikipedia.org/wiki/Reputation_system).
+~ See also: [[ref: mandatory]], [[ref: recommended]], [[ref: optional]].
+
+~ For more information, see: <https://www.rfc-editor.org/rfc/rfc2119>.
 

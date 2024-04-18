@@ -1,4 +1,8 @@
-[[def: self-certified]]:
+[[def: self-certifying identifier]]:
 
-~ When a [[ref: party]] provides its own [[ref: certification]] that it is [[ref: compliant]] with a set of [[ref: requirements]], such as a [[ref: governance framework]].
+~ A subclass of [[ref: verifiable identifier]] that is [[ref: cryptographically verifiable]] without the need to rely on any [[ref: third party]] for [[ref: verification]] because the [[ref: identifier]] is cryptographically bound to the [[ref: cryptographic keys]] from which it was generated.
+
+~ See also: [[ref: autonomic identifier]].
+
+~ Also known as: [[ref: SCID]].
 

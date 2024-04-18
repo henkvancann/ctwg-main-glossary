@@ -1,8 +1,6 @@
-[[def: proof of personhood]]:
+[[def: proof of possession]]:
 
-~ Proof of personhood (PoP) is a means of resisting malicious attacks on [[ref: peer-to-peer]] networks, particularly, attacks that utilize multiple fake [[ref: identities]], otherwise known as a [[ref: Sybil attack]]. Decentralized online platforms are particularly vulnerable to such attacks by their very nature, as notionally democratic and responsive to large voting blocks. In PoP, each unique human participant obtains one equal unit of voting power, and any associated rewards.
+~ A [[ref: verification]] process whereby a [[ref: level of assurance]] is obtained that the owner of a [[ref: key pair]] actually controls the [[ref: private key]] associated with the [[ref: public key]].
 
-~ Source: [Wikipedia](https://en.wikipedia.org/wiki/Proof_of_personhood).
-
-~ Also known as: [[ref: PoP]].
+~ Source: [NIST-CSRC](https://csrc.nist.gov/glossary/term/proof_of_possession).
 

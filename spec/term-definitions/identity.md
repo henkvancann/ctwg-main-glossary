@@ -1,10 +1,8 @@
-[[def: identity]]:
+[[def: identity assurance level]]:
 
-~ A collection of [[ref: attributes]] or other [[ref: identity data]] that describe an [[ref: entity]] and enable it to be distinguished from all other [[ref: entities]] within a specific [[ref: scope]] of [[ref: identification]]. Identity attributes may include one or more [[ref: identifiers]] for an [[ref: entity]], however it is possible to establish an identity without using [[ref: identifiers]].
+~ A category that conveys the degree of confidence that a person’s claimed [[ref: identity]] is their real [[ref: identity]], for example as defined in [NIST SP 800-63-3](https://pages.nist.gov/800-63-3/sp800-63-3.html) in terms of three levels: IAL 1 (Some confidence), IAL 2 (High confidence), IAL 3 (Very high confidence).
 
-~ Supporting definitions:
+~ Source: [NIST-CSRC](https://csrc.nist.gov/glossary/term/identity_assurance_level).
 
-~ [eSSIF-Lab](https://essif-lab.github.io/framework/docs/essifLab-glossary#identity): the combined [knowledge](https://essif-lab.github.io/framework/docs/terms/knowledge) about that [entity](https://essif-lab.github.io/framework/docs/terms/entity) of all [parties](https://essif-lab.github.io/framework/docs/terms/party), i.e. the union of all [partial identities](https://essif-lab.github.io/framework/docs/terms/partial-identity) of which that [entity](https://essif-lab.github.io/framework/docs/terms/entity) is the [subject](https://essif-lab.github.io/framework/docs/terms/subject).
-
-~ Note: Identity is relational to the [[ref: party]] performing the identification. For example, if 100 different [[ref: parties]] have an identity for the same [[ref: entity]], each of them may hold a different set of [[ref: identity data]] enabling identification of that [[ref: entity]].
+~ See also: [[ref: authenticator assurance level]], [[ref: federation assurance level]].
 

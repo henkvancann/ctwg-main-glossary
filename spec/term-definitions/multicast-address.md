@@ -1,6 +1,10 @@
-[[def: multi-signature]]:
+[[def: natural person]]:
 
-~ A cryptographic [[ref: signature]] scheme where the process of signing information (e.g., a transaction) is distributed among multiple [[ref: private keys]].
+~ A person (in legal meaning, i.e., one who has its own legal personality) that is an individual human being, distinguished from the broader category of a [[ref: legal person]], which may be a private (i.e., business entity or non-governmental [[ref: organization]]) or public (i.e., government) [[ref: organization]].
 
-~ Source: [NIST-CSRC](https://csrc.nist.gov/glossary/term/multi_signature).
+~ Source: [Wikipedia](https://en.wikipedia.org/wiki/Natural_person).
+
+~ See also: [[ref: legal entity]], [[ref: party]].
+
+~ Contrast with: [[ref: legal person]]
 

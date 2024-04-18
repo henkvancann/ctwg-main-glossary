@@ -1,6 +1,6 @@
-[[def: verifiable identifier]]:
+[[def: verifiable message]]:
 
-~ An [[ref: identifier]] over which the [[ref: controller]] can provide cryptographic [[ref: proof of control]].
+~ A [[ref: message]] communicated as [[ref: verifiable data]].
 
-~ See also: [[ref: decentralized identifier]], [[ref: autonomous identifier]].
+~ See also: [[ref: ToIP messages]]
 

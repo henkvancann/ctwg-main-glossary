@@ -1,4 +1,6 @@
-[[def: stream]]:
+[[def: streaming media]]:
 
-~ In the context of digital [[ref: communications]], and in particular [[ref: streaming media]], a flow of [[ref: data]] delivered in a continuous manner from a server to a client rather than in discrete [[ref: messages]].
+~ Streaming media is multimedia for playback using an offline or online media player. Technically, the stream is delivered and consumed in a continuous manner from a client, with little or no intermediate storage in network elements. Streaming refers to the delivery method of content, rather than the content itself.
+
+~ Source: [Wikipedia](https://en.wikipedia.org/wiki/Streaming_media).
 

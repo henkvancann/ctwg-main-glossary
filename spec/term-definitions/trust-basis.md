@@ -1,8 +1,8 @@
-[[def: trust community]]:
+[[def: trust context]]:
 
-~ A set of [[ref: parties]] who collaborate to achieve a mutual set of [[ref: trust objectives]].
+~ The context in which a specific [[ref: party]] makes a specific [[ref: trust decision]]. Many different factors may be involved in establishing a trust context, such as: the relevant interaction or transaction; the presence or absence of existing [[ref: trust relationships]]; the applicability of one or more [[ref: governance frameworks]]; and the location, time, network, and/or devices involved. A trust context may be implicit or explicit; if explicit, it may be identified using an [[ref: identifier]]. A [[ref: ToIP governance framework]] an example of an explicit trust context identified by a [[ref: ToIP identifier]].
 
-~ See also: [[ref: digital trust ecosystem]], [[ref: ToIP trust community]].
+~ See also: [[ref: trust domain]].
 
-~ Note: A trust community may be large or small, formal or informal. In a formal trust community, the set of [[ref: policies]] and [[ref: rules ]]governing behavior of members are usually published in a [[ref: governance framework]] or [[ref: trust framework]]. In an informal trust community, the policies or rules governing the behavior of members may be [[ref: tribal knowledge]].
+~ For more information, see: [Design Principles for the ToIP Stack](https://trustoverip.org/our-work/design-principles/).
 

@@ -1,8 +1,10 @@
-[[def: deep link]]:
+[[def: definition]]:
 
-~ In the context of the World Wide Web, deep linking is the use of a hyperlink that links to a specific, generally searchable or indexed, piece of web content on a website (e.g. "https\://example.com/path/page"), rather than the website's home page (e.g., "https\://example.com"). The URL contains all the information needed to point to a particular item. Deep linking is different from [[ref: mobile deep linking]], which refers to directly linking to in-app content using a non-HTTP URI.
+~ A textual statement defining the meaning of a [[ref: term]] by specifying [[ref: criterion]] that enable the [[ref: concept]] identified by the [[ref: term]] to be distinguished from all other [[ref: concepts]] within the intended [[ref: scope]].
 
-~ See also: [[ref: out-of-band introduction]].
+~ Supporting definitions:
 
-~ Source: [Wikipedia](https://en.wikipedia.org/wiki/Deep_linking).
+~ [eSSIF-Lab](https://essif-lab.github.io/framework/docs/essifLab-glossary#definition): a text that helps [parties](https://essif-lab.github.io/framework/docs/@) to have the same understanding about the meaning of (and [concept](https://essif-lab.github.io/framework/docs/@) behind) a [term](https://essif-lab.github.io/framework/docs/@), ideally in such a way that these [parties](https://essif-lab.github.io/framework/docs/@) can determine whether or not they make the same distinction.
+
+~ Wikipedia: A definition is a statement of the meaning of a term (a [word](https://en.wikipedia.org/wiki/Word), [phrase](https://en.wikipedia.org/wiki/Phrase), or other set of [symbols](https://en.wikipedia.org/wiki/Symbol)). Definitions can be classified into two large categories: [intensional definitions](https://en.wikipedia.org/wiki/Intensional_definition) (which try to give the sense of a term), and [extensional definitions](https://en.wikipedia.org/wiki/Extensional_definition) (which try to list the objects that a term describes). Another important category of definitions is the class of [ostensive definitions](https://en.wikipedia.org/wiki/Ostensive_definition), which convey the meaning of a term by pointing out examples. A term may have many different senses and multiple meanings, and thus require multiple definitions.
 

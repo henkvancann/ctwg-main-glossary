@@ -1,6 +1,8 @@
-[[def: dictionary]]:
+[[def: DID controller]]:
 
-~ A dictionary is a listing of lexemes (words or [[ref: terms]]) from the lexicon of one or more specific languages, often arranged alphabetically, which may include information on [[ref: definitions]], usage, etymologies, pronunciations, translation, etc. It is a lexicographical reference that shows inter-relationships among the [[ref: data]]. Unlike a [[ref: glossary]], a dictionary may provide multiple [[ref: definitions]] of a [[ref: term]] depending on its [[ref: scope]] or context.
+~ An [[ref: entity]] that has the capability to make changes to a [[ref: DID document]]. A [[ref: DID]] might have more than one DID controller. The DID controller(s) can be denoted by the optional `controller` property at the top level of the [[ref: DID document]]. Note that a DID controller might be the [[ref: DID subject]].
 
-~ Source: [Wikipedia](https://en.wikipedia.org/wiki/Dictionary).
+~ Source: [W3C DID](https://www.w3.org/TR/did-core/#terminology).
+
+~ See also: [[ref: controller]].
 

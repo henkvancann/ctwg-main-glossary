@@ -1,4 +1,4 @@
-[[def: VID relationship]]:
+[[def: VID-to-VID]]:
 
-~ The [[ref: communications]] relationship formed between two [[ref: VIDs]] using the [[ref: ToIP Trust Spanning Protocol]]. A particular feature of this protocol is its ability to establish as many VID relationships as needed to establish different [[ref: relationship contexts]] between the communicating [[ref: entities]].
+~ The specialized type of [[ref: peer-to-peer]] [[ref: communications]] enabled by the [[ref: ToIP Trust Spanning Protocol]]. Each pair of VIDs creates a unique [[ref: VID relationship]].
 

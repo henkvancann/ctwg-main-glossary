@@ -1,6 +1,8 @@
-[[def: DID document]]:
+[[def: DID method]]:
 
-~ A set of data describing the [[ref: DID subject]], including mechanisms, such as cryptographic public keys, that the [[ref: DID subject]] or a DID delegate can use to [[ref: authenticate]] itself and prove its association with the [[ref: DID]]. A DID document might have one or more different representations as defined in section 6 of the [W3C Decentralized Identifiers (DIDs) 1.0](https://www.w3.org/TR/did-core/) specification.
+~ A definition of how a specific DID method scheme is implemented. A DID method is defined by a DID method specification, which specifies the precise operations by which [[ref: DIDs]] and [[ref: DID documents]] are created, resolved, updated, and deactivated.
 
-~ Source: [W3C DID](https://www.w3.org/TR/did-core/#terminology).
+~ Source: [W3C DID](https://www.w3.org/TR/did-core/#dfn-did-methods).
+
+~ For more information: <https://www.w3.org/TR/did-core/#methods>
 

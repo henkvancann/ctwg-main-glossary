@@ -1,4 +1,4 @@
-[[def: trust support]]:
+[[def: trust support layer]]:
 
-~ A system, protocol, or other infrastructure whose function is to facilitate the establishment and maintenance of [[ref: trust relationships]] at higher [[ref: protocol layers]]. In the [[ref: ToIP stack]], the [[ref: trust support layer]] is [[ref: Layer 1]].
+~ In the context of the [[ref: ToIP stack]], the [[ref: trust support]] layer is [[ref: ToIP Layer 1]]. It supports the operations of the ToIP Trust Spanning Protocol at [[ref: ToIP Layer 2]].
 

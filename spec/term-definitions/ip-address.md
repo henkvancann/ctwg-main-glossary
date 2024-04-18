@@ -1,6 +1,6 @@
-[[def: IP address]]:
+[[def: issuance]]:
 
-~ An [[ref: Internet Protocol]] address (IP address) is a numerical label such as 192.0.2.1 that is connected to a computer network that uses the [[ref: Internet Protocol]] for [[ref: communication]]. An IP address serves two main functions: network interface [[ref: identification]], and location [[ref: addressing]].
+~ The [[ref: action]] of an [[ref: issuer]] producing and transmitting a [[ref: digital credential]] to a [[ref: holder]]. A [[ref: holder]] may request issuance by submitting an [[ref: issuance request]].
 
-~ Source: [Wikipedia](https://en.wikipedia.org/wiki/IP_address).
+~ See also: [[ref: presentation]], [[ref: revocation]].
 

@@ -1,4 +1,4 @@
-[[def: DRM]]:
+[[def: DWN]]:
 
-~ See: [[ref: digital rights management]].
+~ See: [[ref: Decentralized Web Node]].
 

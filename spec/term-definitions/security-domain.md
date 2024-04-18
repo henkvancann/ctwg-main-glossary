@@ -1,4 +1,4 @@
-[[def: self-asserted]]:
+[[def: self-certified]]:
 
-~ A term used to describe a [[ref: claim]] or a [[ref: credential]] whose [[ref: subject]] is also the [[ref: issuer]].
+~ When a [[ref: party]] provides its own [[ref: certification]] that it is [[ref: compliant]] with a set of [[ref: requirements]], such as a [[ref: governance framework]].
 

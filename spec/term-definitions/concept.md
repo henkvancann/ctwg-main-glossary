@@ -1,10 +1,10 @@
-[[def: concept]]:
+[[def: confidential computing]]:
 
-~ An abstract idea that enables the classification of [[ref: entities]], i.e., a mental construct that enables an instance of a class of [[ref: entities]] to be distinguished from [[ref: entities]] that are not an instance of that class. A concept can be [[ref: identified]] with a [[ref: term]].
+~ Hardware-enabled features that isolate and process [[ref: encrypted]] [[ref: data]] in memory so that the [[ref: data]] is at less risk of exposure and compromise from concurrent workloads or the underlying system and platform.
+
+~ Source: [NIST-CSRC](https://csrc.nist.gov/glossary/term/confidential_computing).
 
 ~ Supporting definitions:
 
-~ [eSSIF-Lab](https://essif-lab.github.io/framework/docs/essifLab-glossary#concept): the ideas/thoughts behind a classification of [entities](https://essif-lab.github.io/framework/docs/terms/entity) (what makes [entities](https://essif-lab.github.io/framework/docs/terms/entity) in that class 'the same').
-
-~ [Wikipedia](https://en.wikipedia.org/wiki/Concept): A concept is defined as an [abstract](https://en.wikipedia.org/wiki/Abstraction) [idea](https://en.wikipedia.org/wiki/Idea). It is understood to be a fundamental building block underlying principles, [thoughts](https://en.wikipedia.org/wiki/Thought) and [beliefs](https://en.wikipedia.org/wiki/Belief). Concepts play an important role in all aspects of [cognition](https://en.wikipedia.org/wiki/Cognition).
+~ [Wikipedia](https://en.wikipedia.org/wiki/Confidential_computing): Confidential computing is a security and [privacy-enhancing computational technique](https://en.wikipedia.org/wiki/Privacy-enhancing_technologies) focused on protecting [data in use](https://en.wikipedia.org/wiki/Data_in_use). Confidential computing can be used in conjunction with storage and network encryption, which protect [data at rest](https://en.wikipedia.org/wiki/Data_at_rest) and [data in transit](https://en.wikipedia.org/wiki/Data_in_transit) respectively. It is designed to address software, protocol, cryptographic, and basic physical and supply-chain attacks, although some critics have demonstrated architectural and [side-channel attacks](https://en.wikipedia.org/wiki/Side-channel_attack) effective against the technology.
 

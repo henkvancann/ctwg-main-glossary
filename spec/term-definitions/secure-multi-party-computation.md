@@ -1,8 +1,8 @@
-[[def: security domain]]:
+[[def: security policy]]:
 
-~ An environment or context that includes a set of system resources and a set of system entities that have the right to access the resources as defined by a common [[ref: security policy]], security model, or security architecture.
+~ A set of [[ref: policies]] and [[ref: rules]] that governs all aspects of security-relevant system and system element behavior.
 
-~ Source: [NIST-CSRC](https://csrc.nist.gov/glossary/term/domain)
+~ Source: [NIST-CSRC](https://csrc.nist.gov/glossary/term/security_policy)
 
-~ See also: [[ref: trust domain]].
+~ See also: [[ref: privacy policy]].
 

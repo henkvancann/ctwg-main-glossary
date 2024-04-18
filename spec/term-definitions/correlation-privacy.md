@@ -1,6 +1,10 @@
-[[def: correlation privacy]]:
+[[def: counterparty]]:
 
-~ In a [[ref: communications]] context, a type of privacy protection in which [[ref: messages]] use [[ref: encryption]], [[ref: hashes]], or other privacy-preserving technologies to avoid the use of [[ref: identifiers]] or other content that [[ref: unauthorized]] [[ref: parties]] may use to correlate the sender and/or receiver(s).
+~ From the perspective of one [[ref: party]], the other [[ref: party]] in a [[ref: transaction]], such as a financial transaction.
 
-~ See also: [[ref: authenticity]], [[ref: confidentiality]].
+~ See also: [[ref: first party]], [[ref: second party]], [[ref: third party]].
+
+~ Supporting definitions:
+
+~ [Wikipedia](https://en.wikipedia.org/wiki/Counterparty): A counterparty (sometimes contraparty) is a [legal entity](https://en.wikipedia.org/wiki/Juristic_person), [unincorporated entity](https://en.wikipedia.org/wiki/Unincorporated_entity), or collection of entities to which an exposure of [financial risk](https://en.wikipedia.org/wiki/Financial_risk) may exist.
 

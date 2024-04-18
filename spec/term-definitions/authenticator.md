@@ -1,12 +1,6 @@
-[[def: authenticator assurance level, AAL]]
+[[def: Authentic Chained Data Container]]:
 
-~ A measure of the strength of an [[ref: authentication]] mechanism and, therefore, the confidence in it.
+~ A digital [[ref: data]] structure designed for both cryptographic [[ref: verification]] and [[ref: chaining]] of data containers. ACDC may be used for [[ref: digital credentials]].
 
-~ Also known as: [[ref: AAL]]
-
-~ Source: [NIST-CSRC](https://csrc.nist.gov/glossary/term/authenticator_assurance_level).
-
-~ See also: [[ref: federation assurance level]], [[ref: identity assurance level]], [[ref: identity binding]].
-
-~ Note: In [NIST SP 800-63-3](https://pages.nist.gov/800-63-3/sp800-63-3.html), AAL is defined in terms of three levels: AAL1 (Some confidence), AAL2 (High confidence), AAL3 (Very high confidence).
+~ For more information, see: [ToIP ACDC Task Force](https://wiki.trustoverip.org/display/HOME/ACDC+%28Authentic+Chained+Data+Container%29+Task+Force).
 

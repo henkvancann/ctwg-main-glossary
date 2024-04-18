@@ -1,10 +1,8 @@
-[[def: controller (of a key, vault, wallet, agent, or device)]]:
+[[def: consent management]]:
 
-~ In the context of digital [[ref: communications]], the [[ref: entity]] in control of sending and receiving digital [[ref: communications]]. In the context of decentralized digital trust infrastructure, the [[ref: entity]] in control of the [[ref: cryptographic keys]] necessary to perform [[ref: cryptographically verifiable]] [[ref: actions]] using a [[ref: digital agent]] and [[ref: digital wallet]]. In a ToIP context, the [[ref: entity]] in control of a [[ref: ToIP endpoint]].
-
-~ See also: [[ref: device controller]], [[ref: DID controller]], [[ref: ToIP controller]].
+~ A system, process or set of policies under which a [[ref: person]] agrees to share [[ref: personal data]] for specific usages. A consent management system will typically create a [[ref: record]] of such consent.
 
 ~ Supporting definitions:
 
-~ [eSSIF-Lab](https://essif-lab.github.io/framework/docs/essifLab-glossary#controller): the role that an [actor](https://essif-lab.github.io/framework/docs/terms/actor) performs as it is executing actions on that [entity](https://essif-lab.github.io/framework/docs/terms/entity) for the purpose of ensuring that the [entity](https://essif-lab.github.io/framework/docs/terms/entity) will act/behave, or be used, in a particular way.
+~ [Wikipedia](https://en.wikipedia.org/wiki/Consent_management): Consent management is a system, process or set of policies for allowing consumers and patients to determine what health information they are willing to permit their various care providers to access. It enables patients and consumers to affirm their participation in e-health initiatives and to establish consent directives to determine who will have access to their protected health information (PHI), for what purpose and under what circumstances. Consent management supports the dynamic creation, management and enforcement of consumer, organizational and jurisdictional privacy policies.
 

@@ -1,12 +1,6 @@
-[[def: term]]:
+[[def: terminology]]:
 
-~ A unit of text (i.e., a word or phrase) that is used in a particular context or scope to refer to a [[ref: concept]] (or a relation between [[ref: concepts]], or a [[ref: property]] of a [[ref: concept]]).
+~ Terminology is a group of specialized words and respective meanings in a particular field, and also the study of such [[ref: terms]] and their use; the latter meaning is also known as terminology science. A term is a word, compound word, or multi-word expressions that in specific contexts is given specific meanings—these may deviate from the meanings the same words have in other contexts and in everyday language.[<sup>\[2\]</sup>](https://en.wikipedia.org/wiki/Terminology#cite_note-2) Terminology is a discipline that studies, among other things, the development of such [[ref: terms]] and their interrelationships within a specialized domain. Terminology differs from lexicography, as it involves the study of [[ref: concepts]], conceptual systems and their labels (terms), whereas lexicography studies words and their meanings.
 
-~ Supporting definitions:
-
-~ [eSSIF-Lab](https://essif-lab.github.io/framework/docs/essifLab-glossary#term): a word or phrase (i.e.: text) that is used in at least one [scope](https://essif-lab.github.io/framework/docs/terms/scope)/context to represent a specific [concept](https://essif-lab.github.io/framework/docs/terms/concept).
-
-~ [Merriam Webster:](https://www.merriam-webster.com/dictionary/term) a word or expression that has a precise meaning in some uses or is peculiar to a science, art, profession, or subject.
-
-~ Note: A term MUST NOT be confused with the concept it refers to.
+~ Source: [Wikipedia](https://en.wikipedia.org/wiki/Terminology).
 

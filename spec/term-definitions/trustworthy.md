@@ -1,4 +1,4 @@
-[[def: TTP]]:
+[[def: UDP]]:
 
-~ See: [[ref: trusted third party]].
+~ See: [[ref: User Datagram Protocol]].
 

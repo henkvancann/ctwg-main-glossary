@@ -1,6 +1,6 @@
-[[def: Trust over IP]]:
+[[def: trust registry]]:
 
-~ A term coined by John Jordan to describe the decentralized digital trust infrastructure made possible by the [[ref: ToIP stack]]. A play on the term Voice over IP (abbreviated VoIP).
+~ A [[ref: registry]] that serves as an [[ref: authoritative source]] for [[ref: trust graphs]] or other [[ref: governed information]] describing one or more [[ref: trust communities]]. A trust registry is typically [[ref: authorized]] by a [[ref: governance framework]].
 
-~ Also known as: [[ref: ToIP]].
+~ See also: [[ref: trust list]], [[ref: verifiable data registry]].
 

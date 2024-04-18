@@ -1,4 +1,4 @@
-[[def: KERI]]:
+[[def: key]]:
 
-~ See: [[ref: Key Event Receipt Infrastructure]].
+~ See: [[ref: cryptographic key]].
 

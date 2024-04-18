@@ -1,6 +1,4 @@
-[[def: trust anchor]]:
+[[def: trust application]]:
 
-~ See: [[ref: trust root]].
-
-~ Note: The term “trust anchor” is most commonly used in cryptography and [[ref: public key infrastructure]].
+~ An application that runs at [[ref: ToIP Layer 4]] in order to perform [[ref: trust tasks]] or engage in other [[ref: verifiable messaging]] using the [[ref: ToIP stack]].
 

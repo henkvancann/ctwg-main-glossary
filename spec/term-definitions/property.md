@@ -1,8 +1,8 @@
-[[def: protocol layer]]:
+[[def: protocol stack]]:
 
-~ In modern protocol design, protocols are layered to form a [[ref: protocol stack]]. Layering is a design principle that divides the protocol design task into smaller steps, each of which accomplishes a specific part, interacting with the other parts of the protocol only in a small number of well-defined ways. Layering allows the parts of a protocol to be designed and tested without a combinatorial explosion of cases, keeping each design relatively simple.
+~ The protocol stack or network stack is an implementation of a computer networking protocol suite or protocol family. Some of these terms are used interchangeably but strictly speaking, the _suite_ is the definition of the communication protocols, and the _stack_ is the software implementation of them.
 
-~ Source: [Wikipedia](https://en.wikipedia.org/wiki/Communication_protocol#Layering).
+~ Source: [Wikipedia](https://en.wikipedia.org/wiki/Protocol_stack)
 
-~ See also: [[ref: hourglass model]], [[ref: ToIP stack]].
+~ See also: [[ref: protocol layer]].
 

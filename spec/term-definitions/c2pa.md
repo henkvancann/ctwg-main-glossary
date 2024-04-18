@@ -1,4 +1,4 @@
-[[def: C2PA]]:
+[[def: CA]]:
 
-~ See: [[ref: Coalition for Content Provenance and Authenticity]].
+~ See: [[ref: certificate authority]].
 

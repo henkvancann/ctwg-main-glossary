@@ -1,6 +1,8 @@
-[[def: out-of-band introduction]]:
+[[def: owner (of an entity)]]:
 
-~ A process by which two or more [[ref: entities]] exchange [[ref: VIDs]] in order to form a [[ref: cryptographically verifiable]] [[ref: connection]] (e.g., a [[ref: ToIP connection]]), such as by scanning a [[ref: QR code]] (in person or remotely) or clicking a [[ref: deep link]].
+~ The [[ref: role]] that a [[ref: party]] performs when it is exercising its legal, rightful or natural title to control a specific [[ref: entity]].
 
-~ Also known as: [[ref: OOBI]].
+~ Source: [eSSIF-Lab](https://essif-lab.github.io/framework/docs/essifLab-glossary#owner).
+
+~ See also: [[ref: controller]].
 

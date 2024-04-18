@@ -1,4 +1,4 @@
-[[def: ToIP application]]:
+[[def: ToIP channel]]:
 
-~ A [[ref: trust application]] that runs at [[ref: ToIP Layer 4]], the [[ref: trust application layer]].
+~ See: VID relationship.
 

@@ -1,6 +1,6 @@
-[[def: ToIP Technology Architecture Specification]]:
+[[def: ToIP Technology Stack]]:
 
-~ The [[ref: technical specification]] defining the [[ref: requirements]] for the [[ref: ToIP Technology Stack]] published by the [[ref: ToIP Foundation]].
+~ The technology half of the four layer [[ref: ToIP stack]] as defined by the [[ref: ToIP Technology Architecture Specification]].
 
-~ For more information: [[ref: ToIP Technology Architecture Specification]].
+~ See also: [[ref: ToIP Governance Stack]], [[ref: ToIP layer]].
 

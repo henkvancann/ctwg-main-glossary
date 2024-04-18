@@ -1,4 +1,4 @@
-[[def: TCP/IP]]:
+[[def: TCP/IP stack]]:
 
-~ See: [[ref: Internet Protocol Suite]].
+~ The [[ref: protocol stack]] implementing the [[ref: TCP/IP]] suite.
 

@@ -1,6 +1,6 @@
-[[def: authorized organizational representative]]
+[[def: authorization graph]]:
 
-~ A [[ref: person]] who has the authority to make [[ref: claims]], sign documents or otherwise commit resources on behalf of an [[ref: organization]].
+~ A graph of the [[ref: authorization]] relationships between different entities in a [[ref: trust-community]]. In a [[ref: digital trust ecosystem]], the [[ref: governing body]] is typically the [[ref: trust root]] of an authorization graph. In some cases, an authorization graph can be traversed by making queries to one or more [[ref: trust registries]].
 
-~ Source: [Law Insider](https://www.lawinsider.com/dictionary/authorized-organizational-representative#:~:text=Authorized%20Organizational%20Representative%20means%20the,the%20resources%20of%20the%20organization.)
+~ See also: [[ref: governance graph]], [[ref: reputation graph]], [[ref: trust graph]].
 

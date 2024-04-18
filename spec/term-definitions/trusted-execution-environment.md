@@ -1,8 +1,4 @@
-[[def: trusted timestamp authority]]:
+[[def: trustworthy]]:
 
-~ An [[ref: authority]] that is trusted to provide accurate time information in the form of a [[ref: timestamp]].
-
-~ Source: [NIST-CSRC](https://csrc.nist.gov/glossary/term/trusted_timestamp_authority).
-
-~ Also known as: [[ref: TTA]].
+~ A [[ref: property]] of an [[ref: entity]] that has the [[ref: attribute]] of [[ref: trustworthiness]].
 

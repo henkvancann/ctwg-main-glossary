@@ -1,8 +1,8 @@
-[[def: technical requirement]]:
+[[def: technical specification]]:
 
-~ A [[ref: requirement]] for a hardware or software component or system. In the context of decentralized digital trust infrastructure, technical requirements are a subset of [[ref: governance requirements]]. Technical requirements are often specified in a [[ref: technical specification]].
+~ A document that specifies, in a complete, precise, verifiable manner, the [[ref: requirements]], design, behavior, or other characteristics of a system or component and often the procedures for determining whether these provisions have been satisfied.
 
-~ For more information, see: <https://datatracker.ietf.org/doc/html/rfc2119>
+~ Source: [NIST-CSRC](https://csrc.nist.gov/glossary/term/specification)
 
-~ Note: In ToIP architecture, both technical requirements and [[ref: governance requirements]] are expressed using the keywords defined in IETF RFC 2119.
+~ See also: [[ref: governance framework]], [[ref: governance requirement]], [[ref: policy]], [[ref: rule]].
 

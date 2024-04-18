@@ -1,8 +1,12 @@
-[[def: mandatory]]:
+[[def: metadata]]:
 
-~ A [[ref: requirement]] that must be implemented in order for an implementer to be in [[ref: compliance]]. In [[ref: ToIP governance frameworks]], a mandatory [[ref: requirement]] is expressed using a MUST or REQUIRED keyword as defined in IETF RFC 2119.
+~ Information describing the characteristics of [[ref: data]] including, for example, structural metadata describing data structures (e.g., data format, syntax, and semantics) and descriptive metadata describing data contents (e.g., information security labels).
 
-~ See also: [[ref: recommended]], [[ref: optional]].
+~ Source: [NIST-CSRC](https://csrc.nist.gov/glossary/term/metadata).
 
-~ For more information, see: <https://www.rfc-editor.org/rfc/rfc2119>.
+~ See also: [[ref: communication metadata]].
+
+~ Supporting definitions:
+
+~ [Wikipedia](https://en.wikipedia.org/wiki/Metadata): Metadata (or metainformation) is "[data](https://en.wikipedia.org/wiki/Data) that provides information about other data", but not the content of the data itself, such as the text of a message or the image itself.
 

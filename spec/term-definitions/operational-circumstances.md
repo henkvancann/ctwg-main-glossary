@@ -1,8 +1,10 @@
-[[def: optional]]:
+[[def: organization]]:
 
-~ A [[ref: requirement]] that is not [[ref: mandatory]] or [[ref: recommended]] to implement in order for an implementer to be in [[ref: compliance]], but which is left to the implementer’s choice. In [[ref: ToIP governance frameworks]], an optional [[ref: requirement]] is expressed using a MAY or OPTIONAL keyword as defined in IETF RFC 2119.
+~ A [[ref: party]] that consists of a group of [[ref: parties]] who agree to be organized into a specific form in order to better achieve a common set of [[ref: objectives]]. Examples include corporations, partnerships, sole proprietorships, non-profit organizations, associations, and governments.
 
-~ See also: [[ref: mandatory]], [[ref: recommended]].
+~ See also: [[ref: legal entity]], [[ref: legal person]].
 
-~ For more information, see: <https://www.rfc-editor.org/rfc/rfc2119>.
+~ Supporting definitions:
+
+~ [eSSIF-Lab](https://essif-lab.github.io/framework/docs/essifLab-glossary#organization): a [party](https://essif-lab.github.io/framework/docs/terms/party) that is capable of setting [objectives](https://essif-lab.github.io/framework/docs/terms/objective) and making sure these are realized by [actors](https://essif-lab.github.io/framework/docs/terms/actor) that it has [onboarded](https://essif-lab.github.io/framework/docs/terms/onboarding) and/or by (vetted) [parties](https://essif-lab.github.io/framework/docs/terms/party) that are committed to contribute to these [objectives](https://essif-lab.github.io/framework/docs/terms/objective).
 

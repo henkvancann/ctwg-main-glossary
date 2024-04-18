@@ -1,8 +1,13 @@
-[[def: Decentralized Identity Foundation]]:
+[[def: Decentralized Web Node]]:
 
-~ A non-profit project of the [Linux Foundation](https://www.linuxfoundation.org/) chartered to develop the foundational components of an open, standards-based, [[ref: decentralized identity]] [[ref: ecosystem]] for people, [[ref: organizations]], apps, and devices.
+~ A decentralized personal and application data storage and message relay node, as defined in the DIF Decentralized Web Node specification. Users may have multiple nodes that replicate their data between them.
 
-~ See also: [[ref: OpenWallet Foundation]], [[ref: ToIP Foundation]].
+~ Source: [DIF DWN Specification](https://identity.foundation/decentralized-web-node/spec/).
 
-~ For more information, see: <http://identity.foundation/>
+~ Also known as: DWN.
+
+~ For more information, see: <https://identity.foundation/decentralized-web-node/spec/> 
+
+
+
 

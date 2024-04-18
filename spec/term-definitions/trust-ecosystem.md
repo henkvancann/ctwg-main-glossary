@@ -1,6 +1,6 @@
-[[def: trust graph]]:
+[[def: trust limit]]:
 
-~ A [[ref: data]] structure describing the [[ref: trust relationship]] between two or more [[ref: entities]]. A simple trust graph may be expressed as a [[ref: trust list]]. More complex trust graphs can be recorded or registered in and queried from a [[ref: trust registry]]. Trust graphs can also be expressed via [[ref: trust chains]] and [[ref: chained credentials]]. Trust graphs can enable [[ref: verifiers]] to make [[ref: transitive trust decisions]].
+~ A limit to the degree a [[ref: party]] is willing to trust an [[ref: entity]] in a specific [[ref: trust relationship]] within a specific [[ref: trust context]].
 
-~ See also: [authorization graph](authorization-graph), [[ref: governance graph]], [[ref: reputation graph]].
+~ For more information, see: [Design Principles for the ToIP Stack](https://trustoverip.org/our-work/design-principles/).
 

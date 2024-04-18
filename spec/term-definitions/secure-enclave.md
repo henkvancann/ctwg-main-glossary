@@ -1,6 +1,8 @@
-[[def: Secure Sockets Layer]]:
+[[def: security domain]]:
 
-~ The original transport layer security protocol developed by Netscape and partners. Now deprecated in favor of [[ref: Transport Layer Security]] (TLS).
+~ An environment or context that includes a set of system resources and a set of system entities that have the right to access the resources as defined by a common [[ref: security policy]], security model, or security architecture.
 
-~ Also known as: [[ref: SSL]].
+~ Source: [NIST-CSRC](https://csrc.nist.gov/glossary/term/domain)
+
+~ See also: [[ref: trust domain]].
 

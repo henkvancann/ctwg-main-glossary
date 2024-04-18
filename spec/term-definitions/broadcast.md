@@ -1,12 +1,6 @@
-[[def: broadcast]]:
+[[def: broadcast address]]:
 
-~ In computer networking, telecommunication and information theory, broadcasting is a method of transferring a [[ref: message]] to all recipients simultaneously. Broadcast delivers a message to all [[ref: nodes]] in the network using a one-to-all association; a single [[ref: datagram]] (or [[ref: packet]]) from one sender is routed to all of the possibly multiple endpoints associated with the [[ref: broadcast address]]. The network automatically replicates [[ref: datagrams]] as needed to reach all the recipients within the scope of the broadcast, which is generally an entire network subnet.
+~ A broadcast address is a [[ref: network address]] used to transmit to all devices connected to a multiple-access [[ref: communications]] network. A [[ref: message]] sent to a broadcast address may be received by all network-attached [[ref: hosts]]. In contrast, a [[ref: multicast address]] is used to address a specific group of devices, and a [[ref: unicast address]] is used to address a single device. For network layer communications, a broadcast address may be a specific [[ref: IP address]].
 
-~ Source: [Wikipedia](https://en.wikipedia.org/wiki/Broadcasting_\(networking\)).
-
-~ See also: [[ref: anycast]], [[ref: multicast]], [[ref: unicast]].
-
-~ Supporting definitions:
-
-~ [NIST-CSRC](https://csrc.nist.gov/glossary/term/broadcast): Transmission to all devices in a network without any acknowledgment by the receivers.
+~ Source: [Wikipedia](https://en.wikipedia.org/wiki/Network_address).
 

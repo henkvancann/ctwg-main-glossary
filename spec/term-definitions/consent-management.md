@@ -1,8 +1,10 @@
-[[def: Content Authenticity Initiative]]:
+[[def: controller (of a key, vault, wallet, agent, or device)]]:
 
-~ The Content Authenticity Initiative (CAI) is an association founded in November 2019 by Adobe, the New York Times and [Tw](https://en.wikipedia.org/wiki/Twitter)i[tter](https://en.wikipedia.org/wiki/Twitter). The CAI promotes an industry standard for provenance [[ref: metadata]] defined by the [[ref: C2PA]]. The CAI cites curbing disinformation as one motivation for its activities.
+~ In the context of digital [[ref: communications]], the [[ref: entity]] in control of sending and receiving digital [[ref: communications]]. In the context of decentralized digital trust infrastructure, the [[ref: entity]] in control of the [[ref: cryptographic keys]] necessary to perform [[ref: cryptographically verifiable]] [[ref: actions]] using a [[ref: digital agent]] and [[ref: digital wallet]]. In a ToIP context, the [[ref: entity]] in control of a [[ref: ToIP endpoint]].
 
-~ Source: [Wikipedia](https://en.wikipedia.org/wiki/Content_Authenticity_Initiative).
+~ See also: [[ref: device controller]], [[ref: DID controller]], [[ref: ToIP controller]].
 
-~ Also known as: [[ref: CAI]].
+~ Supporting definitions:
+
+~ [eSSIF-Lab](https://essif-lab.github.io/framework/docs/essifLab-glossary#controller): the role that an [actor](https://essif-lab.github.io/framework/docs/terms/actor) performs as it is executing actions on that [entity](https://essif-lab.github.io/framework/docs/terms/entity) for the purpose of ensuring that the [entity](https://essif-lab.github.io/framework/docs/terms/entity) will act/behave, or be used, in a particular way.
 

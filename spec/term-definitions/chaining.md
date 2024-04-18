@@ -1,4 +1,4 @@
-[[def: chaining]]:
+[[def: channel]]:
 
-~ See: [[ref: trust chain]].
+~ See: [[ref: communication channel]].
 

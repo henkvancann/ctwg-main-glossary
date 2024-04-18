@@ -1,6 +1,4 @@
-[[def: ToIP Technology Stack]]:
+[[def: ToIP trust community]]:
 
-~ The technology half of the four layer [[ref: ToIP stack]] as defined by the [[ref: ToIP Technology Architecture Specification]].
-
-~ See also: [[ref: ToIP Governance Stack]], [[ref: ToIP layer]].
+~ A [[ref: trust community]] governed by a [[ref: ToIP governance framework]].
 

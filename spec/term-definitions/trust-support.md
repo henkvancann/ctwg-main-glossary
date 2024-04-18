@@ -1,4 +1,4 @@
-[[def: trust task layer]]:
+[[def: trust task protocol]]:
 
-~ In the context of the [[ref: ToIP stack]], the [[ref: trust task]] layer is [[ref: ToIP Layer 3]]. It supports [[ref: trust applications]] operating at [[ref: ToIP Layer 4]].
+~ A [[ref: ToIP Layer 3]] protocol that implements a specific [[ref: trust task]] on behalf of a [[ref: ToIP Layer 4]] [[ref: trust application]].
 

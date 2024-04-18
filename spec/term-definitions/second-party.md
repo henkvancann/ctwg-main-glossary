@@ -1,4 +1,6 @@
-[[def: secure multi-party computation]]:
+[[def: Secure Sockets Layer]]:
 
-~ See: [[ref: multi-party computation]].
+~ The original transport layer security protocol developed by Netscape and partners. Now deprecated in favor of [[ref: Transport Layer Security]] (TLS).
+
+~ Also known as: [[ref: SSL]].
 

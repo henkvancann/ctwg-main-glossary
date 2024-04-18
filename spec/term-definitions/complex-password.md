@@ -1,8 +1,10 @@
-[[def: complex password]]:
+[[def: compliance]]:
 
-~ A [[ref: password]] that meets certain security requirements, such as minimum length, inclusion of different character types, non-repetition of characters, and so on.
+~ In the context of decentralized digital trust infrastructure, the extent to which a system, [[ref: actor]], or [[ref: party]] conforms to the requirements of a [[ref: governance framework]] or [[ref: trust framework]] that pertains to that particular [[ref: entity]].
+
+~ See also: [[ref: Governance, Risk Management, and Compliance]].
 
 ~ Supporting definitions:
 
-~ [Science Direct](https://www.sciencedirect.com/topics/computer-science/complex-password): According to Microsoft, complex passwords consist of at least seven characters, including three of the following four character types: uppercase letters, lowercase letters, numeric digits, and non-alphanumeric characters such as & $ \* and !
+~ [eSSIF-Lab](https://essif-lab.github.io/framework/docs/essifLab-glossary#compliance): The state of realization of a set of conformance criteria or normative framework of a [party](https://essif-lab.github.io/framework/docs/terms/party).
 

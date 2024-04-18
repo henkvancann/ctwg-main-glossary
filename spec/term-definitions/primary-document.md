@@ -1,6 +1,8 @@
-[[def: Principles of SSI]]:
+[[def: privacy policy]]:
 
-~ A set of principles for [[ref: self-sovereign identity]] systems originally defined by the Sovrin Foundation and republished by the [[ref: ToIP Foundation]].
+~ A statement or legal document (in privacy law) that discloses some or all of the ways a [[ref: party]] gathers, uses, discloses, and manages a customer or client's [[ref: data.]]
 
-~ For more information, see: <https://sovrin.org/principles-of-ssi/> and <https://trustoverip.org/wp-content/uploads/2021/10/ToIP-Principles-of-SSI.pdf>
+~ Source: [Wikipedia](https://en.wikipedia.org/wiki/Privacy_policy)
+
+~ See also: [[ref: security policy]].
 

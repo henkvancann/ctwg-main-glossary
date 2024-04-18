@@ -1,8 +1,8 @@
-[[def: privacy policy]]:
+[[def: private key]]:
 
-~ A statement or legal document (in privacy law) that discloses some or all of the ways a [[ref: party]] gathers, uses, discloses, and manages a customer or client's [[ref: data.]]
+~ In [[ref: public key cryptography]], the [[ref: cryptographic key]] which must be kept secret by the [[ref: controller]] in order to maintain security.
 
-~ Source: [Wikipedia](https://en.wikipedia.org/wiki/Privacy_policy)
+~ Supporting definitions:
 
-~ See also: [[ref: security policy]].
+~ [NIST-CSRC](https://csrc.nist.gov/glossary/term/private_key): The secret part of an asymmetric key pair that is typically used to digitally sign or decrypt data.
 

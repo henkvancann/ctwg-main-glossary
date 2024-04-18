@@ -1,4 +1,4 @@
-[[def: governed use case]]:
+[[def: governed party, governed parties]]:
 
-~ A use case specified in a [[ref: governance document]] that results in specific [[ref: governance requirements]] within that [[ref: governance framework]]. Governed use cases may optionally be discovered via a [[ref: trust registry]] authorized by the relevant [[ref: governance framework]].
+~ A [[ref: party]] whose [[ref: role(s)]] in a [[ref: trust community]] is governed by the [[ref: governance requirements]] in a [[ref: governance framework]].
 

@@ -1,8 +1,6 @@
-[[def: message]]:
+[[def: mobile deep link]]:
 
-~ A discrete unit of [[ref: communication]] intended by the source for consumption by some recipient or group of recipients.
+~ In the context of mobile apps, [[ref: deep linking]] consists of using a uniform resource identifier (URI) that links to a specific location within a mobile app rather than simply launching the app. Deferred deep linking allows users to deep link to content even if the app is not already installed. Depending on the mobile device platform, the URI required to trigger the app may be different.
 
-~ Source: [Wikipedia](https://en.wikipedia.org/wiki/Message).
-
-~ See also: [[ref: ToIP message]], [[ref: verifiable message]].
+~ Source: [Wikipedia](https://en.wikipedia.org/wiki/Mobile_deep_linking).
 

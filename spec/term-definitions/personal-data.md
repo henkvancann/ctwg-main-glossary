@@ -1,4 +1,6 @@
-[[def: personal data vault]]:
+[[def: personal wallet]]:
 
-~ A [[ref: digital vault]] whose [[ref: controller]] is a [[ref: natural person]].
+~ A [[ref: digital wallet]] whose [[ref: holder]] is a [[ref: natural person]].
+
+~ Contrast with: [[ref: enterprise wallet]].
 

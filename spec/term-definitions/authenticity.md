@@ -1,8 +1,8 @@
-[[def: authenticity]]:
+[[def: authorization]]:
 
-~ The [[ref: property]] of being genuine and being able to be [[ref: verified]] and trusted; confidence in the [[ref: validity]] of a transmission, a [[ref: message]], or message originator.
+~ The process of [[ref: verifying]] that a requested [[ref: action]] or service is approved for a specific [[ref: entity]].
 
-~ Source: [NIST-CSRC](https://csrc.nist.gov/glossary/term/authenticity).
+~ Source: [NIST-CSRC](https://csrc.nist.gov/glossary/term/authorization).
 
-~ See also: [[ref: confidentiality]], [[ref: correlation privacy]], [[ref: cryptographic verifiability]].
+~ See also: [[ref: permission]].
 

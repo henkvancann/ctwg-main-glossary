@@ -1,10 +1,12 @@
-[[def: natural person]]:
+[[def: natural thing]]:
 
-~ A person (in legal meaning, i.e., one who has its own legal personality) that is an individual human being, distinguished from the broader category of a [[ref: legal person]], which may be a private (i.e., business entity or non-governmental [[ref: organization]]) or public (i.e., government) [[ref: organization]].
+~ A [[ref: thing]] that exists in the natural world independently of humans. Although natural things may form part of a [man-made thing](https://trustoverip.github.io/hxwg/glossary.html#man-made-thing), natural things are mutually exclusive with [man-made things](https://trustoverip.github.io/hxwg/glossary.html#man-made-thing).
 
-~ Source: [Wikipedia](https://en.wikipedia.org/wiki/Natural_person).
+~ Source: [Sovrin Foundation Glossary V3](https://docs.google.com/document/d/1gfIz5TT0cNp2kxGMLFXr19x1uoZsruUe_0glHst2fZ8/edit).
 
-~ See also: [[ref: legal entity]], [[ref: party]].
+~ Contrast with: [[ref: man-made thing]].
 
-~ Contrast with: [[ref: legal person]]
+~ For more information see: [Appendix B](https://docs.google.com/document/d/1gfIz5TT0cNp2kxGMLFXr19x1uoZsruUe_0glHst2fZ8/edit#heading=h.mq7pzglc1j96) and[Appendix C](https://docs.google.com/document/d/1gfIz5TT0cNp2kxGMLFXr19x1uoZsruUe_0glHst2fZ8/edit#heading=h.uiq9py7xnmxd) of the Sovrin Glossary
+
+~ Note: Natural things (those recognized to have legal rights) can be [[ref: parties]] but never [[ref: actors]] in the eSSIF-Lab mental model [Parties, Actors, Actions](https://essif-lab.pages.grnet.gr/framework/docs/terms/pattern-party-actor-action).
 

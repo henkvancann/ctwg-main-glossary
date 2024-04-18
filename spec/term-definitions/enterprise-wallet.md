@@ -1,6 +1,6 @@
-[[def: enterprise wallet]]:
+[[def: entity, entities]]:
 
-~ A [[ref: digital wallet]] whose [[ref: holder]] is an [[ref: organization]].
+~ Someone or something that is known to exist.
 
-~ Contrast with: [[ref: personal wallet]].
+~ Source: [eSSIF-Lab](https://essif-lab.github.io/framework/docs/essifLab-glossary).
 

@@ -1,6 +1,6 @@
-[[def: cryptographic trust]]:
+[[def: cryptographic verifiability]]:
 
-~ A specialized type of [[ref: technical trust]] that is achieved using cryptographic algorithms.
+~ The [[ref: property]] of being [[ref: cryptographically verifiable]].
 
-~ Contrast with: [[ref: human trust]].
+~ Contrast with: [[ref: human auditability]].
 

@@ -1,8 +1,8 @@
-[[def: multicast]]:
+[[def: multicast address]]:
 
-~ In computer networking, multicast is group [[ref: communication]] where [[ref: data]] transmission is addressed (using a [[ref: multicast address]]) to a group of destination computers simultaneously. Multicast can be one-to-many or many-to-many distribution. Multicast should not be confused with physical layer point-to-multipoint communication.
+~ A multicast address is a logical [[ref: identifier]] for a group of [[ref: hosts]] in a computer network that are available to process [[ref: datagrams]] or frames intended to be [[ref: multicast]] for a designated network service.
 
-~ Source: [Wikipedia](https://en.wikipedia.org/wiki/Multicast).
+~ Source: [Wikipedia](https://en.wikipedia.org/wiki/Multicast_address).
 
-~ See also: [[ref: anycast]], [[ref: broadcast]], [[ref: unicast]].
+~ See also: [[ref: broadcast address]], [[ref: unicast address]].
 

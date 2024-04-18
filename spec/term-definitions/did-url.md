@@ -1,6 +1,6 @@
-[[def: DID URL]]:
+[[def: digital agent]]:
 
-~ A [[ref: DID]] plus any additional syntactic component that conforms to the definition in section 3.2 of the [W3C Decentralized Identifiers (DIDs) 1.0](https://www.w3.org/TR/did-core/) specification. This includes an optional DID path (with its leading / character), optional DID query (with its leading ? character), and optional DID fragment (with its leading # character).
+~ In the context of ​​decentralized digital trust infrastructure, an [[ref: agent]] (specifically a type of [[ref: software agent]]) that operates in conjunction with a [[ref: digital wallet]].
 
-~ Source: [W3C DID](https://www.w3.org/TR/did-core/#dfn-did-urls).
+~ Note: In a ToIP context, a digital agent is frequently assumed to have privileged access to the [[ref: digital wallet]](s) of its principal. In market parlance, a mobile app that performs the [[ref: actions]] of a digital agent is often simply called a [[ref: wallet]] or a [[ref: digital wallet]].
 

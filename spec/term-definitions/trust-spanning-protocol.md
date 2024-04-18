@@ -1,6 +1,4 @@
-[[def: trust task]]:
+[[def: trust task layer]]:
 
-~ A specific task that involves establishing, verifying, or maintaining [[ref: trust relationships]] or exchanging [[ref: verifiable messages]] or [[ref: verifiable data]] that can be performed on behalf of a [[ref: trust application]] by a [[ref: trust task protocol]] at [[ref: Layer 3]] of the [[ref: ToIP stack]].
-
-~ For more information, see [Section 7.4](https://github.com/trustoverip/TechArch/blob/main/spec.md#74-layer-3-trust-tasks) of the [[ref: ToIP Technology Architecture Specification]].
+~ In the context of the [[ref: ToIP stack]], the [[ref: trust task]] layer is [[ref: ToIP Layer 3]]. It supports [[ref: trust applications]] operating at [[ref: ToIP Layer 4]].
 

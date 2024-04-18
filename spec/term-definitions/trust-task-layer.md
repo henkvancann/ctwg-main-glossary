@@ -1,10 +1,4 @@
-[[def: trusted execution environment]]:
+[[def: trusted role]]:
 
-~ A trusted execution environment (TEE) is a secure area of a main processor. It helps code and data loaded inside it to be protected with respect to [[ref: confidentiality]] and [[ref: integrity]]. Data [[ref: integrity]] prevents [[ref: unauthorized]] [[ref: entities]] from outside the TEE from altering [[ref: data]], while code integrity prevents code in the TEE from being replaced or modified by [[ref: unauthorized]] [[ref: entities]], which may also be the computer [[ref: owner]] itself as in certain [[ref: DRM]] schemes.
-
-~ Source: [Wikipedia](https://en.wikipedia.org/wiki/Trusted_execution_environment).
-
-~ Also known as: [[ref: TEE]].
-
-~ See also: [[ref: Secure Enclave]].
+~ A [role](http://role) that performs restricted activities for an [[ref: organization]] after meeting competence, security and background [[ref: verification]] [[ref: requirements]] for that [[ref: role]].
 

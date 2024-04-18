@@ -1,8 +1,6 @@
-[[def: private key]]:
+[[def: proof]]:
 
-~ In [[ref: public key cryptography]], the [[ref: cryptographic key]] which must be kept secret by the [[ref: controller]] in order to maintain security.
+~ A digital object that enables [[ref: cryptographic verification]] of either: a) the [[ref: claims]] from one or more [[ref: digital credentials]], or b) facts about [[ref: claims]] that do not reveal the [[ref: data ]] itself (e.g., proof of the [[ref: subject]] being over/under a specific age without revealing a birthdate).
 
-~ Supporting definitions:
-
-~ [NIST-CSRC](https://csrc.nist.gov/glossary/term/private_key): The secret part of an asymmetric key pair that is typically used to digitally sign or decrypt data.
+~ See also: [[ref: zero-knowledge proof]].
 

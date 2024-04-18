@@ -1,4 +1,8 @@
-[[def: TCP/IP stack]]:
+[[def: technical requirement]]:
 
-~ The [[ref: protocol stack]] implementing the [[ref: TCP/IP]] suite.
+~ A [[ref: requirement]] for a hardware or software component or system. In the context of decentralized digital trust infrastructure, technical requirements are a subset of [[ref: governance requirements]]. Technical requirements are often specified in a [[ref: technical specification]].
+
+~ For more information, see: <https://datatracker.ietf.org/doc/html/rfc2119>
+
+~ Note: In ToIP architecture, both technical requirements and [[ref: governance requirements]] are expressed using the keywords defined in IETF RFC 2119.
 

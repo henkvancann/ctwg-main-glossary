@@ -1,4 +1,6 @@
-[[def: enterprise data vault]]:
+[[def: enterprise wallet]]:
 
-~ A [[ref: digital vault]] whose [[ref: controller]] is an [[ref: organization]].
+~ A [[ref: digital wallet]] whose [[ref: holder]] is an [[ref: organization]].
+
+~ Contrast with: [[ref: personal wallet]].
 

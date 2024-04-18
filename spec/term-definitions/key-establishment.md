@@ -1,6 +1,4 @@
-[[def: key establishment]]:
+[[def: key event]]:
 
-~ A process that results in the sharing of a key between two or more entities, either by transporting a key from one entity to another (key transport) or generating a key from information shared by the entities (key agreement).
-
-~ Source: [NIST-CSRC](https://csrc.nist.gov/glossary/term/key_establishment).
+~ An event in the history of the usage of a [[ref: cryptographic key pair]]. There are multiple types of key events. The inception event is when the key pair is first generated. A rotation event is when the key pair is changed to a new key pair. In some [[ref: key management systems]] (such as [[ref: KERI]]), key events are tracked in a [[ref: key event log]].
 

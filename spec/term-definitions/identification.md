@@ -1,6 +1,8 @@
-[[def: identification]]:
+[[def: identifier]]:
 
-~ The [[ref: action]] of a [[ref: party]] obtaining the set of [[ref: identity data]] necessary to serve as that [[ref: party’s]] [[ref: identity]] for a specific [[ref: entity]].
+~ A single [[ref: attribute]]—typically a character string—that uniquely identifies an [[ref: entity]] within a specific context (which may be a global context). Examples include the name of a [[ref: party,]] the URL of an [[ref: organization]], or a serial number for a [[ref: man-made thing]].
 
-~ Note: The act of identification of a specific [[ref: entity]] is relational to each [[ref: party]] that needs to perform that action. Therefore each party may end up with their own set of [[ref: identity data]] that meets their specific [[ref: requirements]] for their specific [[ref: scope]].
+~ Supporting definitions:
+
+~ [eSSIF-Lab](https://essif-lab.github.io/framework/docs/essifLab-glossary#identifier): a character string that is being used for the identification of some [entity](https://essif-lab.github.io/framework/docs/terms/entity) (yet may refer to 0, 1, or more [entities](https://essif-lab.github.io/framework/docs/terms/entity), depending on the context within which it is being used).
 

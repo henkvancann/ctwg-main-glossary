@@ -1,6 +1,4 @@
-[[def: domain]]:
+[[def: DRM]]:
 
-~ See: [[ref: security domain]].
-
-~ See also: [[ref: trust domain]].
+~ See: [[ref: digital rights management]].
 

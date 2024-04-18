@@ -1,4 +1,4 @@
-[[def: credential request]]:
+[[def: credential schema]]:
 
-~ See: [[ref: issuance request]].
+~ A [[ref: data schema]] describing the structure of a [[ref: digital credential]]. The [[ref: W3C Verifiable Credentials Data Model Specification]] defines a set of requirements for credential schemas.
 

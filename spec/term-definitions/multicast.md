@@ -1,4 +1,6 @@
-[[def: multi-party control]]:
+[[def: multi-signature]]:
 
-~ A variant of [[ref: multi-party computation]] where multiple parties must act in concert to meet a control requirement without revealing each other’s data. All parties are privy to the output of the control, but no party learns anything about the others.
+~ A cryptographic [[ref: signature]] scheme where the process of signing information (e.g., a transaction) is distributed among multiple [[ref: private keys]].
+
+~ Source: [NIST-CSRC](https://csrc.nist.gov/glossary/term/multi_signature).
 

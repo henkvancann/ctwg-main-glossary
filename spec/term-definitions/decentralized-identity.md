@@ -1,6 +1,8 @@
-[[def: decentralized identity]]:
+[[def: Decentralized Identity Foundation]]:
 
-~ A [[ref: digital identity]] architecture in which a [[ref: digital identity]] is established via the control of a set of [[ref: cryptographic keys]] in a [[ref: digital wallet]] so that the [[ref: controller]] is not dependent on any external [[ref: identity provider]] or other [[ref: third party]].
+~ A non-profit project of the [Linux Foundation](https://www.linuxfoundation.org/) chartered to develop the foundational components of an open, standards-based, [[ref: decentralized identity]] [[ref: ecosystem]] for people, [[ref: organizations]], apps, and devices.
 
-~ See also: [[ref: federated identity]], [[ref: self-sovereign identity]].
+~ See also: [[ref: OpenWallet Foundation]], [[ref: ToIP Foundation]].
+
+~ For more information, see: <http://identity.foundation/>
 

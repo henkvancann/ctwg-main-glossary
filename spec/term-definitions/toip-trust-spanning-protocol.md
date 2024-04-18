@@ -1,10 +1,10 @@
-[[def: Transmission Control Protocol]]:
+[[def: Transport Layer Security]]:
 
-~ The Transmission Control Protocol (TCP) is one of the main protocols of the [[ref: Internet protocol suite]]. It originated in the initial network implementation in which it complemented the [[ref: Internet Protocol]] (IP). Therefore, the entire suite is commonly referred to as [[ref: TCP/IP]]. TCP provides reliable, ordered, and error-checked delivery of a stream of octets (bytes) between applications running on hosts communicating via an IP network. Major internet applications such as the World Wide Web, email, remote administration, and file transfer rely on TCP, which is part of the Transport Layer of the TCP/IP suite. [[ref: SSL/TLS]] often runs on top of TCP.
+~ Transport Layer Security (TLS) is a cryptographic protocol designed to provide [[ref: communications]] security over a computer network. The protocol is widely used in applications such as email, instant messaging, and [[ref: Voice over IP]], but its use in securing HTTPS remains the most publicly visible. The TLS protocol aims primarily to provide security, including privacy ([[ref: confidentiality]]), integrity, and [[ref: authenticity]] through the use of cryptography, such as the use of [[ref: certificates]], between two or more communicating computer applications.
 
-~ Source: [Wikipedia](https://en.wikipedia.org/wiki/Transmission_Control_Protocol).
+~ Source: [Wikipedia](https://en.wikipedia.org/wiki/Transport_Layer_Security).
 
-~ Also known as: [[ref: TCP]].
+~ Also known as: [[ref: TLS]].
 
-~ See also: [[ref: User Datagram Protocol]].
+~ Note: TLS replaced the deprecated [[ref: Secure Sockets Layer]] (SSL) protocol.
 

@@ -1,4 +1,4 @@
-[[def: ToIP message]]:
+[[def: ToIP specification]]:
 
-~ A [[ref: message]] communicated between [[ref: ToIP endpoints]] using the [[ref: ToIP stack]].
+~ A specification published by the [[ref: ToIP Foundation]]. Specifications may be in one of three states: Draft Deliverable, Working Group Approved Deliverable, or ToIP Approved Deliverables
 

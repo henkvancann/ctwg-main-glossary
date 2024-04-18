@@ -1,6 +1,4 @@
-[[def: identity binding]]:
+[[def: identity data]]:
 
-~ The process of associating a set of [[ref: identity data]], such as a [[ref: credential]], with its [[ref: subject]], such as a [[ref: natural person]]. The strength of an identity binding is one factor in determining an [[ref: authenticator assurance level]].
-
-~ See also: [[ref: identity assurance level]], [[ref: identity proofing]].
+~ The set of [[ref: data]] held by a [[ref: party]] in order to provide an [[ref: identity]] for a specific [[ref: entity]].
 

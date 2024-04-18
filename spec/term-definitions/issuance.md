@@ -1,6 +1,6 @@
-[[def: issuance]]:
+[[def: issuance request]]:
 
-~ The [[ref: action]] of an [[ref: issuer]] producing and transmitting a [[ref: digital credential]] to a [[ref: holder]]. A [[ref: holder]] may request issuance by submitting an [[ref: issuance request]].
+~ A protocol request invoked by the [[ref: holder]] of a [[ref: digital wallet]] to obtain a [[ref: digital credential]] from an [[ref: issuer]].
 
-~ See also: [[ref: presentation]], [[ref: revocation]].
+~ See also: [[ref: presentation request]].
 

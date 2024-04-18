@@ -1,6 +1,6 @@
-[[def: integrity (of a data structure)]]:
+[[def: intermediary system]]:
 
-~ In IT security, data integrity means maintaining and assuring the accuracy and completeness of [[ref: data]] over its entire lifecycle. This means that [[ref: data]] cannot be modified in an [[ref: unauthorized]] or undetected manner.
+~ A system that operates at [[ref: ToIP Layer 2]], the [[ref: trust spanning layer]] of the [[ref: ToIP stack]], in order to route [[ref: ToIP messages]] between [[ref: endpoint systems]]. A supporting system is one of three types of systems defined in the [[ref: ToIP Technology Architecture Specification]].
 
-~ Source: [Wikipedia](https://en.wikipedia.org/wiki/Information_security#Integrity).
+~ See also: [[ref: endpoint system]], [[ref: supporting system]].
 

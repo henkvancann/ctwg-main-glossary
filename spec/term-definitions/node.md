@@ -1,4 +1,6 @@
-[[def: non-custodial wallet]]:
+[[def: objective]]:
 
-~ A [[ref: digital wallet]] that is directly in the control of the [[ref: holder]], usually because the holder is the [[ref: device controller]] of the device hosting the [[ref: digital wallet]] (smartcard, smartphone, tablet, laptop, desktop, car, etc.) A [[ref: digital wallet]] that is in the custody of a [[ref: third party]] is called a [[ref: custodial wallet]].
+~ Something toward which a [[ref: party]] (its [[ref: owner]]) directs effort (an aim, goal, or end of [[ref: action]]).
+
+~ Source: [eSSIF-Lab](https://essif-lab.github.io/framework/docs/terms/objective).
 

@@ -1,6 +1,6 @@
-[[def: attestation]]:
+[[def: appropriate friction]]:
 
-~ The issue of a statement, based on a decision, that fulfillment of specified [[ref: requirements]] has been demonstrated. In the context of decentralized digital trust infrastructure, an attestation usually has a [[ref: digital signature]] so that it is [[ref: cryptographically verifiable]].
+~ A user-experience design principle for information systems (such as digital wallets) specifying that the level of attention required of the [[ref: holder]] for a particular transaction should provide a reasonable opportunity for an informed choice by the [[ref: holder]].
 
-~ Source: [NIST-CSRC](https://csrc.nist.gov/glossary/term/attestation).
+~ Source: [PEMC IGR](https://kantarainitiative.org/download/pemc-implementors-guidance-report/).
 

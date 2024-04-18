@@ -1,4 +1,4 @@
-[[def: Secure Enclave]]:
+[[def: secure multi-party computation]]:
 
-~ A coprocessor on Apple iOS devices that serves as a [[ref: trusted execution environment]].
+~ See: [[ref: multi-party computation]].
 

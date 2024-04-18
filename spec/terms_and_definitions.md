@@ -97,6 +97,7 @@
 
 
 [[def: assurance level, assurance levels]]:
+
 ~ A level of confidence in a [[ref: claim]] that may be relied on by others. Different types of assurance levels are defined for different types of trust assurance mechanisms. Examples include [[ref: authenticator assurance level]], [federation assurance level](federation-assurance-level), and [identity assurance level](identity-assurance-level).
 
 
@@ -157,6 +158,7 @@
 ~ See also: [[ref: human auditable]].
 
 [[def: authentication(of a user; process; or device), authentication]]:
+
 ~ Verifying the [[ref: identity]] of a user, process, or device, often as a prerequisite to allowing access to resources in an information system.
 
 ~ Source: [NIST-CSRC](https://csrc.nist.gov/glossary/term/authentication).
@@ -641,6 +643,7 @@
 
 
 [[def: decentralized identifier, decentralized identifiers, DID, DIDs]]:
+
 ~ A globally unique persistent [[ref: identifier]] that does not require a centralized [[ref: registration]] [[ref: authority]] and is often generated and/or registered cryptographically. The generic format of a DID is defined in section [3.1 DID Syntax](https://www.w3.org/TR/did-core/#did-syntax) of the [W3C Decentralized Identifiers (DIDs) 1.0](https://www.w3.org/TR/did-core/) specification. A specific DID scheme is defined in a [[ref: DID method]] specification.
 
 ~ Source: [W3C DID](https://www.w3.org/TR/did-core/#terminology).
@@ -892,9 +895,10 @@
 ~ See: [[ref: digital ecosystem]].
 
 [[def: ecosystem governance framework, EGF]]:
+
 ~ A [[ref: governance framework]] for a [[ref: digital trust ecosystem]]. An ecosystem governance framework may incorporate, aggregate, or reference other types of governance frameworks such as a [[ref: credential governance framework]] or a [[ref: utility governance framework]].
 
-- Also known as: [[ref: EGF]]
+~ - Also known as: [[ref: EGF]]
 
 [[def: eIDAS]]:
 
@@ -1103,6 +1107,7 @@
 ~ A use case specified in a [[ref: governance document]] that results in specific [[ref: governance requirements]] within that [[ref: governance framework]]. Governed use cases may optionally be discovered via a [[ref: trust registry]] authorized by the relevant [[ref: governance framework]].
 
 [[def: governed party, governed parties]]:
+
 ~ A [[ref: party]] whose [[ref: role(s)]] in a [[ref: trust community]] is governed by the [[ref: governance requirements]] in a [[ref: governance framework]].
 
 [[def: governed information]]:
@@ -2082,6 +2087,7 @@
 ~ Source: [Wikipedia](https://en.wikipedia.org/wiki/Reputation_system).
 
 [[def: requirement, requirements]]:
+
 ~ A specified condition or behavior to which a system needs to [[ref: comply]]. [[ref: Technical requirements]] are defined in [[ref: technical specifications]] and implemented in computer systems to be executed by software [[ref: actors]]. [[ref: Governance requirements]] are defined in [[ref: governance documents]] that specify [[ref: policies]] and procedures to be executed by human [[ref: actors]]. In ToIP architecture, requirements are expressed using the keywords defined in Internet RFC 2119.
 
 ~ See also: [[ref: mandatory]], [[ref: recommended]], [[ref: optional]].
@@ -2567,6 +2573,7 @@
 ~ A [[ref: message]] communicated between [[ref: ToIP endpoints]] using the [[ref: ToIP stack]].
 
 [[def: ToIP specification]]:
+
 ~ A specification published by the [[ref: ToIP Foundation]]. Specifications may be in one of three states: Draft Deliverable, Working Group Approved Deliverable, or ToIP Approved Deliverables
 
 [[def: ToIP stack]]:
@@ -2706,6 +2713,7 @@
 ~ For more information, see: [Design Principles for the ToIP Stack](https://trustoverip.org/our-work/design-principles/).
 
 [[def: trust community, trust communities]]:
+
 ~ A set of [[ref: parties]] who collaborate to achieve a mutual set of [[ref: trust objectives]]. 
 
 ~ See also: [[ref: digital trust ecosystem]], [[ref: ToIP trust community]].
@@ -3015,10 +3023,11 @@
 ~ Note: There is an [earlier definition in the W3C VC 1.1. glossary](https://www.w3.org/TR/vc-data-model/#terminology) that is not as mature (it is not clear about the use of cryptographically verifiable data structures). We do not recommend that definition.
 
 [[def: verifiable identifier, VID]]:
+
 ~ An [[ref: identifier]] over which the [[ref: controller]] can provide cryptographic [[ref: proof of control]].
 
 ~ See also: [[ref: decentralized identifier]], [[ref: autonomous identifier]].
-- Also known as: [[ref:VID]]
+~ - Also known as: [[ref:VID]]
 
 [[def: verifiable message]]:
 

@@ -1,8 +1,6 @@
-[[def: authorization]]:
+[[def: authorized organizational representative]]
 
-~ The process of [[ref: verifying]] that a requested [[ref: action]] or service is approved for a specific [[ref: entity]].
+~ A [[ref: person]] who has the authority to make [[ref: claims]], sign documents or otherwise commit resources on behalf of an [[ref: organization]].
 
-~ Source: [NIST-CSRC](https://csrc.nist.gov/glossary/term/authorization).
-
-~ See also: [[ref: permission]].
+~ Source: [Law Insider](https://www.lawinsider.com/dictionary/authorized-organizational-representative#:~:text=Authorized%20Organizational%20Representative%20means%20the,the%20resources%20of%20the%20organization.)
 

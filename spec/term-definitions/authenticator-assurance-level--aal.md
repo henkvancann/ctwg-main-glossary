@@ -1,6 +1,8 @@
-[[def: Authentic Chained Data Container]]:
+[[def: authenticity]]:
 
-~ A digital [[ref: data]] structure designed for both cryptographic [[ref: verification]] and [[ref: chaining]] of data containers. ACDC may be used for [[ref: digital credentials]].
+~ The [[ref: property]] of being genuine and being able to be [[ref: verified]] and trusted; confidence in the [[ref: validity]] of a transmission, a [[ref: message]], or message originator.
 
-~ For more information, see: [ToIP ACDC Task Force](https://wiki.trustoverip.org/display/HOME/ACDC+%28Authentic+Chained+Data+Container%29+Task+Force).
+~ Source: [NIST-CSRC](https://csrc.nist.gov/glossary/term/authenticity).
+
+~ See also: [[ref: confidentiality]], [[ref: correlation privacy]], [[ref: cryptographic verifiability]].
 

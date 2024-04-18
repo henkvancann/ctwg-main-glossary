@@ -1,4 +1,4 @@
-[[def: trust application]]:
+[[def: trust application layer]]:
 
-~ An application that runs at [[ref: ToIP Layer 4]] in order to perform [[ref: trust tasks]] or engage in other [[ref: verifiable messaging]] using the [[ref: ToIP stack]].
+~ In the context of the [[ref: ToIP stack]], the [[ref: trust application]] layer is [[ref: ToIP Layer 4]]. Applications running at this layer call [[ref: trust task protocols]] at [[ref: ToIP Layer 3]].
 

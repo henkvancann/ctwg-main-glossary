@@ -1,4 +1,8 @@
-[[def: functional identity]]:
+[[def: gateway]]:
 
-~ A set of [[ref: identity data]], such as a [[ref: credential]], that is [[ref: issued]] not for the purpose of establishing a [[ref: foundational identity]] for the subject, but for the purpose of establishing other attributes, qualifications, or capabilities of the subject. Loyalty cards, library cards, and employee IDs are all examples of functional identities. [[ref: Foundational identities]] are often used to provide [[ref: identity binding]] for functional identities.
+~ A gateway is a piece of networking hardware or software used in telecommunications networks that allows [[ref: data]] to flow from one discrete network to another. Gateways are distinct from [[ref: routers]] or switches in that they communicate using more than one protocol to connect multiple networks[<sup>\[1\]\[2\]</sup>](https://en.wikipedia.org/wiki/Gateway_\(telecommunications\)#cite_note-1) and can operate at any of the seven layers of the open systems interconnection model (OSI).
+
+~ See also: [[ref: intermediary]].
+
+~ Source: [Wikipedia](https://en.wikipedia.org/wiki/Gateway_\(telecommunications\)).
 

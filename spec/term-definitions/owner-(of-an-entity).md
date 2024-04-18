@@ -1,8 +1,8 @@
-[[def: party]]:
+[[def: password]]:
 
-~ An [[ref: entity]] that sets its [[ref: objectives]], maintains its [[ref: knowledge]], and uses that [[ref: knowledge]] to pursue its [[ref: objectives]] in an autonomous (sovereign) manner. Humans and [[ref: organizations]] are the typical examples.
+~ A string of characters (letters, numbers and other symbols) that are used to authenticate an identity, verify access authorization or derive cryptographic keys.
 
-~ Source: [eSSIF-Lab](https://essif-lab.github.io/framework/docs/essifLab-glossary).
+~ Source: [NIST-CSRC](https://csrc.nist.gov/glossary/term/password).
 
-~ See also: [[ref: first party]], [[ref: second party]], [[ref: third party]], [[ref: natural person]]
+~ See also: [[ref: complex password]].
 

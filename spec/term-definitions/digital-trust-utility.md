@@ -1,10 +1,10 @@
-[[def: digital signature]]:
+[[def: digital vault]]:
 
-~ A digital signature is a mathematical scheme for verifying the authenticity of digital [[ref: messages]] or documents. A valid digital signature, where the prerequisites are satisfied, gives a recipient very high confidence that the [[ref: message]] was created by a known sender ([authenticity](https://en.wikipedia.org/wiki/Authentication)), and that the message was not altered in transit ([integrity](https://en.wikipedia.org/wiki/Data_integrity)).
+~ A secure container for [[ref: data]] whose [[ref: controller]] is the [[ref: principal]]. A digital vault is most commonly used in conjunction with a [[ref: digital wallet]] and a [[ref: digital agent]]. A digital vault may be implemented on a local device or in the cloud; multiple digital vaults may be used by the same [[ref: principal]] across different devices and/or the cloud; if so they may use some type of synchronization. If the capability is supported, [[ref: data]] may flow into or out of the digital vault automatically based on [[ref: subscriptions]] approved by the [[ref: controller]].
 
-~ Source: [Wikipedia](https://en.wikipedia.org/wiki/Digital_signature).
+~ Also known as: [[ref: data vault]], [[ref: encrypted data vault]].
 
-~ Supporting definitions:
+~ See also: [[ref: enterprise data vault]], [[ref: personal data vault]], [[ref: virtual vault]].
 
-~ [NIST-CSRC](https://csrc.nist.gov/glossary/term/digital_signature): The result of a cryptographic transformation of data which, when properly implemented, provides the services of: 1. origin authentication, 2. data integrity, and 3. signer non-repudiation.
+~ For more information, see: <https://en.wikipedia.org/wiki/Personal_data_service>, <https://digitalbazaar.github.io/encrypted-data-vaults/>
 

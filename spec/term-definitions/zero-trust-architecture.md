@@ -1,4 +1,6 @@
-[[def: assurance level]]
+[[def: authorization]]
 
-~ A level of confidence that may be relied on by others. Different types of assurance levels are defined for different types of trust assurance mechanisms. Examples include authenticator assurance level, federation assurance level, and identity assurance level.
+~ The process of verifying that a requested action or service is approved for a specific entity.
+~ Source: NIST-CSRC.
+~ * See also: [[ref: permission]].
 

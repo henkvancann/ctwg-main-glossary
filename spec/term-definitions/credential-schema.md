@@ -1,4 +1,4 @@
-[[def: credential schema]]:
+[[def: criterion]]:
 
-~ A [[ref: data schema]] describing the structure of a [[ref: digital credential]]. The [[ref: W3C Verifiable Credentials Data Model Specification]] defines a set of requirements for credential schemas.
+~ In the context of [[ref: terminology]], a written description of a [[ref: concept]] that anyone can evaluate to determine whether or not an [[ref: entity]] is an instance or example of that [[ref: concept]]. Evaluation leads to a yes/no result.
 

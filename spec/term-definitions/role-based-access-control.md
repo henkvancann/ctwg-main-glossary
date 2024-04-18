@@ -1,6 +1,6 @@
-[[def: router]]:
+[[def: routing]]:
 
-~ A router is a networking device that forwards [[ref: data packets]] between computer networks. Routers perform the traffic directing functions between networks and on the global Internet. Data sent through a network, such as a web page or email, is in the form of [[ref: data packets]]. A packet is typically forwarded from one router to another router through the networks that constitute an internetwork (e.g. the Internet) until it reaches its destination [[ref: node]]. This process is called [[ref: routing]].
+~ Routing is the process of selecting a path for traffic in a network or between or across multiple networks. Broadly, routing is performed in many types of networks, including circuit-switched networks, such as the public switched telephone network (PSTN), and computer networks, such as the Internet. A [[ref: router]] is a computing device that specializes in performing routing.
 
-~ Source: [Wikipedia](https://en.wikipedia.org/wiki/Router_\(computing\)).
+~ Source: [Wikipedia](https://en.wikipedia.org/wiki/Routing).
 

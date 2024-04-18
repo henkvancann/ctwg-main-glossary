@@ -1,4 +1,6 @@
-[[def: virtual vault]]:
+[[def: Voice over IP]]:
 
-~ A [[ref: digital vault]] enclosed inside another [[ref: digital vault]] by virtue of having its own [[ref: verifiable identifier]] (VID) and its own set of [[ref: encryption]] [[ref: keys]] that are separate from those used to unlock the enclosing vault.
+~ Voice over Internet Protocol (VoIP), also called IP telephony, is a method and group of technologies for voice calls for the delivery of voice [[ref: communication]] sessions over [[ref: Internet Protocol]] (IP) networks, such as the Internet.
+
+~ Also known as: [[ref: VoIP]].
 

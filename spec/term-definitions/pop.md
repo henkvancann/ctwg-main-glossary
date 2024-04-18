@@ -1,8 +1,6 @@
-[[def: presentation attack]]:
+[[def: presentation request]]:
 
-~ A type of cybersecurity attack in which the attacker attempts to defeat a [[ref: biometric]] [[ref: liveness detection]] system by providing false inputs.
+~ A protocol request sent by the [[ref: verifier]] to the [[ref: holder]] of a [[ref: digital wallet]] to request a [[ref: presentation]].
 
-~ Supporting definitions:
-
-~ [NIST-CSRC](https://csrc.nist.gov/glossary/term/presentation_attack): Presentation to the biometric data capture subsystem with the goal of interfering with the operation of the biometric system.
+~ See also: [[ref: issuance request]].
 

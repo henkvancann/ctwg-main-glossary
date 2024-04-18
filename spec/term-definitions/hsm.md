@@ -1,4 +1,6 @@
-[[def: HSM]]:
+[[def: human auditability]]:
 
-~ See: [[ref: hardware security module]].
+~ See: [[ref: human auditable]].
+
+~ Contrast with: [[ref: cryptographic verifiability]].
 

@@ -1,6 +1,6 @@
-[[def: knowledge]]:
+[[def: Laws of Identity]]:
 
-~ The (intangible) sum of what is known by a specific [party](https://essif-lab.github.io/framework/docs/terms/party), as well as the familiarity, awareness or understanding of someone or something by that [party](https://essif-lab.github.io/framework/docs/terms/party).
+~ A set of seven “laws” written by Kim Cameron, former Chief Identity Architect of Microsoft (1941-2021), to describe the dynamics that cause digital identity systems to succeed or fail in various contexts. His goal was to define the requirements for a unifying identity metasystem that can offer the Internet the identity layer it needs.
 
-~ Source: [eSSIF-Lab](https://essif-lab.github.io/framework/docs/essifLab-glossary#knowledge).
+~ For more information, see: <https://www.identityblog.com/?p=352>.
 

@@ -1,4 +1,4 @@
-[[def: TCP]]:
+[[def: TCP/IP]]:
 
-~ See: [[ref: Transmission Control Protocol]].
+~ See: [[ref: Internet Protocol Suite]].
 

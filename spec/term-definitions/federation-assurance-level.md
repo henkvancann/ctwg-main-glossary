@@ -1,8 +1,6 @@
-[[def: federation assurance level]]:
+[[def: fiduciary]]:
 
-~ A category that describes the [[ref: federation]] protocol used to communicate an assertion containing [[ref: authentication]]) and [[ref: attribute]] information (if applicable) to a [[ref: relying party]], as defined in [NIST SP 800-63-3](https://pages.nist.gov/800-63-3/) in terms of three levels: FAL 1 (Some confidence), FAL 2 (High confidence), FAL 3 (Very high confidence).
+~ A fiduciary is a person who holds a legal or ethical relationship of trust with one or more other [[ref: parties]] (person or group of persons). Typically, a fiduciary prudently takes care of money or other [[ref: assets]] for another person. One [[ref: party]], for example, a corporate trust company or the trust department of a bank, acts in a fiduciary capacity to another [[ref: party]], who, for example, has entrusted funds to the fiduciary for safekeeping or investment. In a fiduciary relationship, one person, in a position of vulnerability, justifiably vests confidence, good faith, reliance, and trust in another whose aid, advice, or protection is sought in some matter.
 
-~ Source: [NIST-CSRC](https://csrc.nist.gov/glossary/term/federation_assurance_level).
-
-~ See also: [[ref: authenticator assurance level]], [[ref: identity assurance level]].
+~ Source: [Wikipedia](https://en.wikipedia.org/wiki/Fiduciary).
 

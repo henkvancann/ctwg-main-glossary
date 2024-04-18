@@ -1,6 +1,4 @@
-[[def: tamper resistant]]:
+[[def: TCP]]:
 
-~ A process which makes alterations to the [[ref: data]] difficult (hard to perform), costly (expensive to perform), or both.
-
-~ Source: [NIST-CSRC](https://csrc.nist.gov/glossary/term/tamper_resistant).
+~ See: [[ref: Transmission Control Protocol]].
 

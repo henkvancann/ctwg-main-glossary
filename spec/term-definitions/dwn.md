@@ -1,4 +1,4 @@
-[[def: DWN]]:
+[[def: ecosystem]]:
 
-~ See: [[ref: Decentralized Web Node]].
+~ See: [[ref: digital ecosystem]].
 

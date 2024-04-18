@@ -1,8 +1,6 @@
-[[def: technical specification]]:
+[[def: technical trust]]:
 
-~ A document that specifies, in a complete, precise, verifiable manner, the [[ref: requirements]], design, behavior, or other characteristics of a system or component and often the procedures for determining whether these provisions have been satisfied.
+~ A [[ref: level of assurance]] in a [[ref: trust relationship]] that can be achieved only via technical means such as hardware, software, network [[ref: protocols]], and cryptography. Cryptographic trust is a specialized type of technical trust.
 
-~ Source: [NIST-CSRC](https://csrc.nist.gov/glossary/term/specification)
-
-~ See also: [[ref: governance framework]], [[ref: governance requirement]], [[ref: policy]], [[ref: rule]].
+~ Contrast with: [[ref: human trust]].
 

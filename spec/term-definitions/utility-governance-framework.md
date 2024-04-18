@@ -1,4 +1,6 @@
-[[def: VC]]:
+[[def: verifiability (of a digital object, claim, or assertion)]]:
 
-~ See: [[ref: verifiable credential]].
+~ The [[ref: property]] of a digital object, assertion, [[ref: claim]], or [[ref: communication]], being [[ref: verifiable]].
+
+~ See also: [[ref:  appraisability]].
 

@@ -1,6 +1,4 @@
-[[def: trust limit]]:
+[[def: trust list]]:
 
-~ A limit to the degree a [[ref: party]] is willing to trust an [[ref: entity]] in a specific [[ref: trust relationship]] within a specific [[ref: trust context]].
-
-~ For more information, see: [Design Principles for the ToIP Stack](https://trustoverip.org/our-work/design-principles/).
+~ A one-dimensional [[ref: trust graph]] in which an [[ref: authoritative source]] publishes a list of [[ref: entities]] that are trusted in a specific [[ref: trust context]]. A trust list can be considered a simplified form of a [[ref: trust registry]].
 

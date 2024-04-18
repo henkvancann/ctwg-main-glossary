@@ -1,4 +1,6 @@
-[[def: subscription]]:
+[[def: supporting system]]:
 
-~ In the context of decentralized digital trust infrastructure, a subscription is an agreement between a first [[ref: digital agent]]—the publisher—to automatically send a second [[ref: digital agent]]—the subscriber—a [[ref: message]] when a specific type of event happens in the [[ref: wallet]] or [[ref: vault]] managed by the first [[ref: digital agent]].
+~ A system that operates at [[ref: ToIP Layer 1]], the [[ref: trust support layer]] of the [[ref: ToIP stack]]. A supporting system is one of three types of systems defined in the [[ref: ToIP Technology Architecture Specification]].
+
+~ See also: [[ref: endpoint system]], [[ref: intermediary system]].
 

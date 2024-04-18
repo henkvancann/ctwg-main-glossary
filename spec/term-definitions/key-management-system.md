@@ -1,8 +1,6 @@
-[[def: key management system]]:
+[[def: keys-at-the-edge]]:
 
-~ A system for the management of [[ref: cryptographic keys]] and their [[ref: metadata]] (e.g., generation, distribution, storage, backup, archive, recovery, use, [[ref: revocation]], and destruction). An automated key management system may be used to oversee, automate, and secure the key management process. A key management is often protected by implementing it within the [[ref: trusted execution environment]] (TEE) of a device. An example is the [[ref: Secure Enclave]] on Apple iOS devices.
+~ A [[ref: key management]] architecture in which [[ref: keys]] are stored on a user’s local edge devices, such as a smartphone, tablet, or laptop, and then used in conjunction with a secure protocol to unlock a [[ref: key management system]] (KMS) and/or a [[ref: digital vault]] in the cloud. This approach can enable the storage and sharing of large [[ref: data]] structures that are not feasible on edge devices. This architecture can also be used in conjunction with [[ref: confidential computing]] to enable cloud-based [[ref: digital agents]] to safely carry out “user not present” operations.
 
-~ Also known as: [[ref: KMS]].
-
-~ Source: [NIST-CRSC](https://csrc.nist.gov/glossary/term/key_management_system).
+~ Also known as: [[ref: KATE]].
 

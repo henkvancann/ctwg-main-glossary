@@ -1,4 +1,6 @@
-[[def: human-readable]]:
+[[def: human trust]]:
 
-~ Information that can be processed by a human but that is not intended to be [[ref: machine-readable]].
+~ A [[ref: level of assurance]] in a [[ref: trust relationship]] that can be achieved only via human evaluation of applicable [[ref: trust]] factors.
+
+~ Contrast with: [[ref: technical trust]].
 

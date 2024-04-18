@@ -1,8 +1,12 @@
-[[def: requirement]]:
+[[def: revocation]]:
 
-~ A specified condition or behavior to which a system needs to [[ref: comply]]. [[ref: Technical requirements]] are defined in [[ref: technical specifications]] and implemented in computer systems to be executed by software [[ref: actors]]. [[ref: Governance requirements]] are defined in [[ref: governance documents]] that specify [[ref: policies]] and procedures to be executed by human [[ref: actors]]. In ToIP architecture, requirements are expressed using the keywords defined in Internet RFC 2119.
+~ In the context of [[ref: digital credentials]], revocation is an event signifying that the [[ref: issuer]] no longer attests to the [[ref: validity]] of a [[ref: credential]] they have [[ref: issued]]. In the context of cryptographic keys, revocation is an event signifying that the [[ref: controller]] no longer attests to the [[ref: validity]] of a public/private key pair for which the [[ref: controller]] is [[ref: authoritative]].
 
-~ See also: [[ref: mandatory]], [[ref: recommended]], [[ref: optional]].
+~ See also: [[ref: issuance]], [[ref: presentation]].
 
-~ For more information, see: <https://www.rfc-editor.org/rfc/rfc2119>.
+~ Supporting definitions:
+
+~ [eSSIF-Lab](https://essif-lab.github.io/framework/docs/essifLab-glossary#revokerevocation): the act, by or on behalf of the [party](https://essif-lab.github.io/framework/docs/terms/party) that has issued the [credential](https://essif-lab.github.io/framework/docs/terms/credential), of no longer vouching for the correctness or any other qualification of (arbitrary parts of) that [credential](https://essif-lab.github.io/framework/docs/terms/credential).
+
+~ [NIST-CSRC](https://csrc.nist.gov/glossary/term/revocation): **​​For digital certificates**: The process of permanently ending the binding between a certificate and the identity asserted in the certificate from a specified time forward. **For cryptographic keys**: A process whereby a notice is made available to affected entities that keys should be removed from operational use prior to the end of the established cryptoperiod of those keys.
 

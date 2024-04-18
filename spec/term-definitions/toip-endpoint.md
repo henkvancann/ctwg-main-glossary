@@ -1,4 +1,4 @@
-[[def: ToIP governance framework]]:
+[[def: ToIP Governance Metamodel]]:
 
-~ A [[ref: governance framework]] that conforms to the requirements of the [[ref: ToIP Governance Architecture Specification]].
+~ A structural model for [[ref: ToIP governance frameworks]] that specifies the recommended [[ref: governance documents]] that should be included depending on the [[ref: objectives]] of the [[ref: trust community]].
 

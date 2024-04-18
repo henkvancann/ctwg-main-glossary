@@ -1,8 +1,6 @@
-[[def: relying party]]:
+[[def: reputation]]:
 
-~ A [[ref: party]] who consumes [[ref: claims]] or [[ref: trust graphs]] from other [[ref: parties]] (such as [[ref: issuers]], [[ref: holders]], and [[ref: trust registries]]) in order to make a [[ref: trust decision]].
+~ The reputation or prestige of a social entity (a [[ref: person]], a social group, an [[ref: organization]], or a place) is an opinion about that entity – typically developed as a result of social evaluation on a set of criteria, such as behavior or performance.
 
-~ See also: [[ref: verifier]].
-
-~ Note: The term “relying party” is more commonly used in [[ref: federated identity]] architecture; the term “verifier” is more commonly used with [[ref: decentralized identity]] architecture and [[ref: verifiable credentials]].
+~ Source: [Wikipedia](https://en.wikipedia.org/wiki/Reputation).
 

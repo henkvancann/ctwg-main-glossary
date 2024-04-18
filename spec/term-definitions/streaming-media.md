@@ -1,6 +1,6 @@
-[[def: supporting system]]:
+[[def: Sybil attack]]:
 
-~ A system that operates at [[ref: ToIP Layer 1]], the [[ref: trust support layer]] of the [[ref: ToIP stack]]. A supporting system is one of three types of systems defined in the [[ref: ToIP Technology Architecture Specification]].
+~ A Sybil attack is a type of attack on a computer network service in which an attacker subverts the service's [[ref: reputation system]] by creating a large number of [[ref: pseudonymous]] [[ref: identities]] and uses them to gain a disproportionately large influence. It is named after the subject of the book _Sybil_, a case study of a woman diagnosed with dissociative identity disorder.
 
-~ See also: [[ref: endpoint system]], [[ref: intermediary system]].
+~ Source: [Wikipedia](https://en.wikipedia.org/wiki/Sybil_attack).
 

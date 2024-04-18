@@ -1,6 +1,10 @@
-[[def: streaming media]]:
+[[def: subject]]:
 
-~ Streaming media is multimedia for playback using an offline or online media player. Technically, the stream is delivered and consumed in a continuous manner from a client, with little or no intermediate storage in network elements. Streaming refers to the delivery method of content, rather than the content itself.
+~ The [[ref: entity]] described by one or more [[ref: claims]], particularly in the context of [[ref: digital credentials]].
 
-~ Source: [Wikipedia](https://en.wikipedia.org/wiki/Streaming_media).
+~ Supporting definitions:
+
+~ [W3C VC](https://www.w3.org/TR/vc-data-model/#terminology): A thing about which [claims](https://www.w3.org/TR/vc-data-model/#dfn-claims) are made.
+
+~ [eSSIF-Lab:](https://essif-lab.github.io/framework/docs/essifLab-glossary#subject) the (single) [[ref: entity]] to which a given set of coherent [[ref: data]] relates/pertains. Examples of such sets include attributes, [[ref: Claims]]/Assertions, files/dossiers, [[ref: (verifiable) credentials]], [(partial) identities](https://essif-lab.github.io/framework/docs/terms/partial-identity), [employment contracts](https://essif-lab.github.io/framework/docs/terms/employment-contract), etc.
 

@@ -1,6 +1,8 @@
-[[def: pseudonym]]:
+[[def: public key]]:
 
-~ A pseudonym is a fictitious name that a [[ref: person]] assumes for a particular purpose, which differs from their original or true name (orthonym). This also differs from a new name that entirely or legally replaces an individual's own. Many pseudonym [[ref: holders]] use pseudonyms because they wish to remain [[ref: anonymous]], but anonymity is difficult to achieve and often fraught with legal issues.
+~ [Drummond Reed](mailto:drummond.reed@avast.com): In [[ref: public key cryptography]], the [[ref: cryptographic key]] that can be freely shared with anyone by the [[ref: controller]] without compromising security. A [[ref: party’s]] public key must be verified as [[ref: authoritative]] in order to verify their [[ref: digital signature]].
 
-~ Source: [Wikipedia](https://en.wikipedia.org/wiki/Pseudonym).
+~ Supporting definitions:
+
+~ [NIST-CSRC](https://csrc.nist.gov/glossary/term/public_key): The public part of an asymmetric key pair that is typically used to verify signatures or encrypt data.
 

@@ -1,4 +1,4 @@
-[[def: VID-to-VID]]:
+[[def: virtual vault]]:
 
-~ The specialized type of [[ref: peer-to-peer]] [[ref: communications]] enabled by the [[ref: ToIP Trust Spanning Protocol]]. Each pair of VIDs creates a unique [[ref: VID relationship]].
+~ A [[ref: digital vault]] enclosed inside another [[ref: digital vault]] by virtue of having its own [[ref: verifiable identifier]] (VID) and its own set of [[ref: encryption]] [[ref: keys]] that are separate from those used to unlock the enclosing vault.
 

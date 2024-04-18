@@ -1,8 +1,4 @@
-[[def: digital rights management]]:
+[[def: digital trust ecosystem]]:
 
-~ Digital rights management (DRM) is the management of legal access to digital content. Various tools or technological protection measures (TPM) like [[ref: access control]] technologies, can restrict the use of proprietary hardware and copyrighted works. DRM technologies govern the use, modification and distribution of copyrighted works (e.g. software, multimedia content) and of systems that enforce these policies within devices.
-
-~ Source: [Wikipedia](https://en.wikipedia.org/wiki/Digital_rights_management).
-
-~ Also known as: [[ref: DRM]].
+~ A [[ref: digital ecosystem]] in which the participants are one or more interoperating [[ref: trust communities]]. Governance of the various [[ref: roles]] of [[ref: governed parties]] within a digital trust ecosystem (e.g., [[ref: issuers]], [[ref: holders]], [[ref: verifiers]], [[ref: certification bodies]], [[ref: auditors]]) is typically managed by a [[ref: governing body]] using a [[ref: governance framework]] as recommended in the [[ref: ToIP Governance Stack]]. Many digital trust ecosystems will also maintain one or more [[ref: trust lists]] and/or [[ref: trust registries]].
 

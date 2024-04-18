@@ -1,4 +1,4 @@
-[[def: registrant]]:
+[[def: registrar]]:
 
-~ The [[ref: party]] submitting a [[ref: registration]] [[ref: record]] to a [[ref: registry]].
+~ The [[ref: party]] who performs [[ref: registration]] on behalf of a [[ref: registrant]].
 

@@ -1,8 +1,8 @@
-[[def: multicast address]]:
+[[def: multi-party computation]]:
 
-~ A multicast address is a logical [[ref: identifier]] for a group of [[ref: hosts]] in a computer network that are available to process [[ref: datagrams]] or frames intended to be [[ref: multicast]] for a designated network service.
+~ Secure multi-party computation (also known as secure computation, multi-party computation (MPC) or privacy-preserving computation) is a subfield of cryptography with the goal of creating methods for [[ref: parties]] to jointly compute a function over their inputs while keeping those inputs private. Unlike traditional cryptographic tasks, where cryptography assures security and [[ref: integrity]] of [[ref: communication]] or storage and the adversary is outside the system of participants (an eavesdropper on the sender and receiver), the cryptography in this model protects participants' privacy from each other.
 
-~ Source: [Wikipedia](https://en.wikipedia.org/wiki/Multicast_address).
+~ Source: [Wikipedia](https://en.wikipedia.org/wiki/Secure_multi-party_computation).
 
-~ See also: [[ref: broadcast address]], [[ref: unicast address]].
+~ Also known as: [[ref: MPC]], [[ref: secure multi-party computation]].
 

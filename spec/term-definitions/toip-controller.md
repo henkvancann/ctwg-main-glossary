@@ -1,6 +1,4 @@
-[[def: ToIP Governance Architecture Specification]]:
+[[def: ToIP governance framework]]:
 
-~ The specification defining the [[ref: requirements]] for the [[ref: ToIP Governance Stack]] published by the [[ref: ToIP Foundation]].
-
-~ For more information, see: <https://trustoverip.org/our-work/deliverables/>.
+~ A [[ref: governance framework]] that conforms to the requirements of the [[ref: ToIP Governance Architecture Specification]].
 

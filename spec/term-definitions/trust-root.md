@@ -1,4 +1,10 @@
-[[def: trust support layer]]:
+[[def: trust spanning layer]]:
 
-~ In the context of the [[ref: ToIP stack]], the [[ref: trust support]] layer is [[ref: ToIP Layer 1]]. It supports the operations of the ToIP Trust Spanning Protocol at [[ref: ToIP Layer 2]].
+~ A [[ref: spanning layer]] designed to span between different digital [[ref: trust domains]]. In the [[ref: ToIP stack]], [[ref: ToIP Layer 2]] is the trust spanning layer.
+
+~ See also: [[ref: ToIP layer]].
+
+~ Mental model: [[ref: hourglass model,]] see [[ref: ToIP Technology Architecture Specification]]
+
+~ For more information, see: [Section 7.3](https://github.com/trustoverip/TechArch/blob/main/spec.md#73-layer-2-trust-spanning) of the [[ref: ToIP Technology Architecture Specification]].
 

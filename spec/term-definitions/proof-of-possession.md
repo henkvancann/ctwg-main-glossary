@@ -1,6 +1,4 @@
-[[def: property]]:
+[[def: protected data]]:
 
-~ In the context of digital communication, an [[ref: attribute]] of a digital object or [[ref: data]] structure, such as a [[ref: DID document]] or a [[ref: schema]].
-
-~ See also: [[ref: attribute]], [[ref: claim]].
+~ [[ref: Data]] that is not publicly available but requires some type of [[ref: access control]] to gain access.
 

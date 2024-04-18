@@ -1,4 +1,4 @@
-[[def: TSP]]:
+[[def: TTA]]:
 
-~ See: [[ref: trust service provider]], [[ref: trust spanning protocol]].
+~ See: [[ref: trusted timestamp authority]].
 

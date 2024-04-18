@@ -1,6 +1,6 @@
-[[def: authority]]:
+[[def: autonomic identifier]]:
 
-~ A [[ref: party]] of which certain decisions, ideas, [[ref: rules]] etc. are followed by other [parties](https://essif-lab.github.io/framework/docs/terms/party).
+~ The specific type of [self-certifying identifier](self-certifying-identifier) specified by the [[ref: KERI]] specifications.
 
-~ Source: [eSSIF-Lab](https://essif-lab.github.io/framework/docs/terms/authority).
+~ Also known as: [[ref: AID]].
 

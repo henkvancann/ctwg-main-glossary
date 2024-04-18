@@ -1,4 +1,4 @@
-[[def: vault]]:
+[[def: VC]]:
 
-~ See: [[ref: digital vault]].
+~ See: [[ref: verifiable credential]].
 

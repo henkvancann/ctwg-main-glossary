@@ -1,4 +1,4 @@
-[[def: PII]]:
+[[def: PKI]]:
 
-~ See: [[ref: personally identifiable information]].
+~ See: [[ref: public key infrastructure]].
 

@@ -1,6 +1,4 @@
-[[def: certification body]]:
+[[def: chain of trust]]:
 
-~ A [[ref: legal entity]] that performs [[ref: certification]].
-
-~ For more information: <https://en.wikipedia.org/wiki/Professional_certification>
+~ See: [[ref: trust chain]].
 

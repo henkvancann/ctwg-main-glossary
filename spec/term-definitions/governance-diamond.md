@@ -1,4 +1,6 @@
-[[def: governance diamond]]:
+[[def: governance document]]:
 
-~ A term that refers to the addition of a [[ref: governing body]] to the standard [[ref: trust triangle]] of [[ref: issuers]], [[ref: holders]], and [[ref: verifiers]] of [[ref: credentials]]. The resulting combination of four [[ref: parties]] represents the basic structure of a [[ref: digital trust ecosystem]].
+~ A document with at least one [[ref: identifier]] that specifies [[ref: governance requirements]] for a [[ref: trust community]].
+
+~ Note: A governance document is a component of a [[ref: governance framework]].
 

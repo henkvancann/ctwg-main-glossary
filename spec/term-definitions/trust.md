@@ -1,4 +1,4 @@
-[[def: trust application layer]]:
+[[def: trust assurance]]:
 
-~ In the context of the [[ref: ToIP stack]], the [[ref: trust application]] layer is [[ref: ToIP Layer 4]]. Applications running at this layer call [[ref: trust task protocols]] at [[ref: ToIP Layer 3]].
+~ A process that provides a [[ref: level of assurance]] sufficient to make a particular [[ref: trust decision]].
 

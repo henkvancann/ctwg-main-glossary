@@ -1,4 +1,4 @@
-[[def: TLS]]:
+[[def: ToIP]]:
 
-~ See: [[ref: Transport Layer Security]].
+~ See: Trust Over IP
 

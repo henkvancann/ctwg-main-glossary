@@ -1,6 +1,4 @@
-[[def: presentation request]]:
+[[def: primary document]]:
 
-~ A protocol request sent by the [[ref: verifier]] to the [[ref: holder]] of a [[ref: digital wallet]] to request a [[ref: presentation]].
-
-~ See also: [[ref: issuance request]].
+~ The [[ref: governance document]] at the root of a [[ref: governance framework]]. The primary document specifies the other [[ref: controlled documents]] in the governance framework.
 

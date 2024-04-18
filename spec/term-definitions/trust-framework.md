@@ -1,4 +1,6 @@
-[[def: trust list]]:
+[[def: trust network]]:
 
-~ A one-dimensional [[ref: trust graph]] in which an [[ref: authoritative source]] publishes a list of [[ref: entities]] that are trusted in a specific [[ref: trust context]]. A trust list can be considered a simplified form of a [[ref: trust registry]].
+~ A network of parties who are connected via [[ref: trust relationships]] conforming to [[ref: requirements]] defined in a legal regulation, [[ref: trust framework]] or [[ref: governance framework]]. A trust network is more formal than a [[ref: digital trust ecosystem]]; the latter may connect parties more loosely via transitive trust relationships and/or across multiple trust networks.
+
+~ See also: [[ref: ToIP trust network]].
 

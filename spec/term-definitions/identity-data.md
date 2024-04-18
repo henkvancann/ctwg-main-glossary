@@ -1,4 +1,4 @@
-[[def: identity data]]:
+[[def: identity document]]:
 
-~ The set of [[ref: data]] held by a [[ref: party]] in order to provide an [[ref: identity]] for a specific [[ref: entity]].
+~ A physical or digital document containing [[ref: identity data]]. A [[ref: credential]] is a specialized form of identity document. Birth certificates, bank statements, and utility bills can all be considered identity documents.
 

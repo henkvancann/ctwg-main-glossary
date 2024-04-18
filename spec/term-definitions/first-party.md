@@ -1,6 +1,6 @@
-[[def: first party]]:
+[[def: foundational identity]]:
 
-~ The [[ref: party]] who initiates a [[ref: trust relationship]], [[ref: connection]], or [[ref: transaction]] with a [[ref: second party]].
+~ A set of [[ref: identity data]], such as a [[ref: credential]], [[ref: issued]] by an [[ref: authoritative source]] for the [[ref: legal identity]] of the [[ref: subject]]. Birth certificates, passports, driving licenses, and other forms of government ID documents are considered foundational [[ref: identity documents]]. Foundational identities are often used to provide [[ref: identity binding]] for [[ref: functional identities]].
 
-~ See also: [[ref: third party]], [[ref: fourth party]].
+~ Contrast with: [[ref: functional identity]].
 

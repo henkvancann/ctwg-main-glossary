@@ -1,8 +1,6 @@
-[[def: identity assurance level]]:
+[[def: identity binding]]:
 
-~ A category that conveys the degree of confidence that a person’s claimed [[ref: identity]] is their real [[ref: identity]], for example as defined in [NIST SP 800-63-3](https://pages.nist.gov/800-63-3/sp800-63-3.html) in terms of three levels: IAL 1 (Some confidence), IAL 2 (High confidence), IAL 3 (Very high confidence).
+~ The process of associating a set of [[ref: identity data]], such as a [[ref: credential]], with its [[ref: subject]], such as a [[ref: natural person]]. The strength of an identity binding is one factor in determining an [[ref: authenticator assurance level]].
 
-~ Source: [NIST-CSRC](https://csrc.nist.gov/glossary/term/identity_assurance_level).
-
-~ See also: [[ref: authenticator assurance level]], [[ref: federation assurance level]].
+~ See also: [[ref: identity assurance level]], [[ref: identity proofing]].
 

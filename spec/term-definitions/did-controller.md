@@ -1,8 +1,6 @@
-[[def: DID controller]]:
+[[def: DID document]]:
 
-~ An [[ref: entity]] that has the capability to make changes to a [[ref: DID document]]. A [[ref: DID]] might have more than one DID controller. The DID controller(s) can be denoted by the optional `controller` property at the top level of the [[ref: DID document]]. Note that a DID controller might be the [[ref: DID subject]].
+~ A set of data describing the [[ref: DID subject]], including mechanisms, such as cryptographic public keys, that the [[ref: DID subject]] or a DID delegate can use to [[ref: authenticate]] itself and prove its association with the [[ref: DID]]. A DID document might have one or more different representations as defined in section 6 of the [W3C Decentralized Identifiers (DIDs) 1.0](https://www.w3.org/TR/did-core/) specification.
 
 ~ Source: [W3C DID](https://www.w3.org/TR/did-core/#terminology).
-
-~ See also: [[ref: controller]].
 

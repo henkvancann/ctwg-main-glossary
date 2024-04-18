@@ -1,6 +1,4 @@
-[[def: authorization graph]]:
+[[def: authoritative source]]:
 
-~ A graph of the [[ref: authorization]] relationships between different entities in a [[ref: trust-community]]. In a [[ref: digital trust ecosystem]], the [[ref: governing body]] is typically the [[ref: trust root]] of an authorization graph. In some cases, an authorization graph can be traversed by making queries to one or more [[ref: trust registries]].
-
-~ See also: [[ref: governance graph]], [[ref: reputation graph]], [[ref: trust graph]].
+~ A source of information that a [[ref: relying party]] considers to be [[ref: authoritative]] for that information. In ToIP architecture, the [[ref: trust registry]] authorized by the [[ref: governance framework (#governance-framework) for a [trust community]] is typically considered an authoritative source by the members of that [[ref: trust community]]. A [[ref: system of record]] is an authoritative source for the data records it holds. A [[ref: trust root]] is an authoritative source for the beginning of a [[ref: trust chain]].
 

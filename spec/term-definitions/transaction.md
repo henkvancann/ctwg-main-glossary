@@ -1,10 +1,6 @@
-[[def: Transport Layer Security]]:
+[[def: tribal knowledge]]:
 
-~ Transport Layer Security (TLS) is a cryptographic protocol designed to provide [[ref: communications]] security over a computer network. The protocol is widely used in applications such as email, instant messaging, and [[ref: Voice over IP]], but its use in securing HTTPS remains the most publicly visible. The TLS protocol aims primarily to provide security, including privacy ([[ref: confidentiality]]), integrity, and [[ref: authenticity]] through the use of cryptography, such as the use of [[ref: certificates]], between two or more communicating computer applications.
+~ [[ref: Knowledge]] that is known within an “in-group” of people but unknown outside of it. A [tribe](https://en.wikipedia.org/wiki/Tribe), in this sense, is a group of people that share such a common [[ref: knowledge]].
 
-~ Source: [Wikipedia](https://en.wikipedia.org/wiki/Transport_Layer_Security).
-
-~ Also known as: [[ref: TLS]].
-
-~ Note: TLS replaced the deprecated [[ref: Secure Sockets Layer]] (SSL) protocol.
+~ Source: [Wikipedia](https://en.wikipedia.org/wiki/Tribal_knowledge)
 

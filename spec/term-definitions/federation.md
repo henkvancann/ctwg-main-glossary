@@ -1,10 +1,8 @@
-[[def: federation]]:
+[[def: federation assurance level]]:
 
-~ A group of [[ref: organizations]] that collaborate to establish a common [[ref: trust framework]] or [[ref: governance framework]] for the exchange of [[ref: identity data]] in a [[ref: federated identity]] system.
+~ A category that describes the [[ref: federation]] protocol used to communicate an assertion containing [[ref: authentication]]) and [[ref: attribute]] information (if applicable) to a [[ref: relying party]], as defined in [NIST SP 800-63-3](https://pages.nist.gov/800-63-3/) in terms of three levels: FAL 1 (Some confidence), FAL 2 (High confidence), FAL 3 (Very high confidence).
 
-~ See also: [[ref: trust community]]
+~ Source: [NIST-CSRC](https://csrc.nist.gov/glossary/term/federation_assurance_level).
 
-~ Supporting definitions:
-
-~ [NIST-CSRC](https://csrc.nist.gov/glossary/term/federation): A collection of realms (domains) that have established trust among themselves. The level of trust may vary, but typically includes authentication and may include authorization.
+~ See also: [[ref: authenticator assurance level]], [[ref: identity assurance level]].
 

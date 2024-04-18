@@ -1,4 +1,6 @@
-[[def: primary document]]:
+[[def: principal]]:
 
-~ The [[ref: governance document]] at the root of a [[ref: governance framework]]. The primary document specifies the other [[ref: controlled documents]] in the governance framework.
+~ The [party](https://essif-lab.github.io/framework/docs/terms/party) for whom, or on behalf of whom, an [actor](https://essif-lab.github.io/framework/docs/terms/actor) is executing an [action](https://essif-lab.github.io/framework/docs/terms/action) (this [actor](https://essif-lab.github.io/framework/docs/terms/actor) is then called an [agent](https://essif-lab.github.io/framework/docs/terms/agent) of that [party](https://essif-lab.github.io/framework/docs/terms/party)).
+
+~ Source: [eSSIF-Lab](https://essif-lab.github.io/framework/docs/essifLab-glossary#principal)
 

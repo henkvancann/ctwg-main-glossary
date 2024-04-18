@@ -1,6 +1,4 @@
-[[def: registry]]:
+[[def: relationship context]]:
 
-~ A specialized database of [[ref: records]] that serves as an [[ref: authoritative source]] of information about [[ref: entities]].
-
-~ See also: [[ref: trust registry]].
+~ A context established within the boundary of a [[ref: trust relationship]].
 

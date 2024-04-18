@@ -1,6 +1,6 @@
-[[def: reputation graph]]:
+[[def: reputation system]]:
 
-~ A graph of the [[ref: reputation]] relationships between different entities in a [[ref: trust community]]. In a [[ref: digital trust ecosystem]], the [[ref: governing body]] may be one [[ref: trust root]] of a reputation graph. In some cases, a reputation graph can be traversed by making queries to one or more [[ref: trust registries]].
+~ Reputation systems are programs or algorithms that allow users to rate each other in online communities in order to build [[ref: trust]] through [[ref: reputation]]. Some common uses of these systems can be found on e-commerce websites such as eBay, Amazon.com, and Etsy as well as online advice communities such as Stack Exchange.
 
-~ See also: [[ref: authorization graph]], [[ref: governance graph]], [[ref: trust graph]].
+~ Source: [Wikipedia](https://en.wikipedia.org/wiki/Reputation_system).
 

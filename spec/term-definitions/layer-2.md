@@ -1,4 +1,4 @@
-[[def: Layer 2]]:
+[[def: Layer 3]]:
 
-~ See: [[ref: ToIP Layer 2]].
+~ See: [[ref: ToIP Layer 3]].
 

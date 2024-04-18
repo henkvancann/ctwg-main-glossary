@@ -1,6 +1,6 @@
-[[def: entity, entities]]:
+[[def: ephemeral connection]]:
 
-~ Someone or something that is known to exist.
+~ A [[ref: connection]] that only exists for the duration of a single [[ref: communication session]] or [[ref: transaction]].
 
-~ Source: [eSSIF-Lab](https://essif-lab.github.io/framework/docs/essifLab-glossary).
+~ Contrast with: [[ref: persistent connection]].
 

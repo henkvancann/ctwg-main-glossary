@@ -1,8 +1,6 @@
-[[def: registration]]:
+[[def: registry]]:
 
-~ The process by which a [[ref: registrant]] submits a [[ref: record]] to a [[ref: registry]].
+~ A specialized database of [[ref: records]] that serves as an [[ref: authoritative source]] of information about [[ref: entities]].
 
-~ registration agent
-
-~ A [[ref: party]] responsible for accepting [[ref: registration]] requests and [authenticating](authentication-of-a-user-process-or-device) the [[ref: entity]] making the request. The term may also apply to a [[ref: party]] accepting [[ref: issuance]] requests for [[ref: digital credentials]].
+~ See also: [[ref: trust registry]].
 

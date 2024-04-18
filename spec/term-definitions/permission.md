@@ -1,6 +1,6 @@
-[[def: personal data]]:
+[[def: personal data store]]:
 
-~ Any information relating to an identified or identifiable [[ref: natural person]] (called a [[ref: data subject]] under [[ref: GDPR]]).
+~ See: [[ref: personal data vault]].
 
-~ Source: [NIST-CSRC](https://csrc.nist.gov/glossary/term/personal_data).
+~ Note: In the market, the term “personal data store” has also been used to generally mean a combination of the functions of a personal [[ref: digital agent]], [[ref: personal wallet]], and [[ref: personal data vault]].
 

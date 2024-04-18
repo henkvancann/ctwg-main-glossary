@@ -1,8 +1,8 @@
-[[def: DID method]]:
+[[def: DID subject]]:
 
-~ A definition of how a specific DID method scheme is implemented. A DID method is defined by a DID method specification, which specifies the precise operations by which [[ref: DIDs]] and [[ref: DID documents]] are created, resolved, updated, and deactivated.
+~ The [[ref: entity]] identified by a [[ref: DID]] and described by a [[ref: DID document]]. Anything can be a DID subject: person, group, organization, physical thing, digital thing, logical thing, etc.
 
-~ Source: [W3C DID](https://www.w3.org/TR/did-core/#dfn-did-methods).
+~ Source: [W3C DID](https://www.w3.org/TR/did-core/#dfn-did-subjects).
 
-~ For more information: <https://www.w3.org/TR/did-core/#methods>
+~ See also: [[ref: subject]].
 

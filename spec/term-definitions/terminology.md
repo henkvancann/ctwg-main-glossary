@@ -1,4 +1,4 @@
-[[def: thing]]:
+[[def: third party]]:
 
-~ An [[ref: entity]] that is neither a [[ref: natural person]] nor an [[ref: organization]] and thus cannot be a [[ref: party]]. A thing may be a [[ref: natural thing]] or a [[ref: man-made thing]].
+~ A [[ref: party]] that is not directly involved in the trust relationship between a [[ref: first party]] and a [[ref: second party]], but provides supporting services to either or both of them.
 

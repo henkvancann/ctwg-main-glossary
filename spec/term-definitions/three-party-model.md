@@ -1,4 +1,4 @@
-[[def: ToIP]]:
+[[def: ToIP application]]:
 
-~ See: Trust Over IP
+~ A [[ref: trust application]] that runs at [[ref: ToIP Layer 4]], the [[ref: trust application layer]].
 

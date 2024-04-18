@@ -1,8 +1,4 @@
-[[def: ToIP Foundation]]:
+[[def: ToIP endpoint]]:
 
-~ A non-profit project of the [Linux Foundation](https://www.linuxfoundation.org/) chartered to define an overall architecture for decentralized digital trust infrastructure known as the [[ref: ToIP stack]].
-
-~ See also: [[ref: Decentralized Identity Foundation]], [[ref: OpenWallet Foundation]].
-
-~ For more information, see: <https://trustoverip.org/>.
+~ An [[ref: endpoint]] that communicates via the [[ref: ToIP Trust Spanning Protocol]] as described in the [[ref: ToIP Technology Architecture Specification]].
 

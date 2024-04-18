@@ -1,6 +1,4 @@
-[[def: physical credential]]:
+[[def: PII]]:
 
-~ A [[ref: credential]] in a physical form such as paper, plastic, or metal.
-
-~ Contrast with: [[ref: digital credential]].
+~ See: [[ref: personally identifiable information]].
 

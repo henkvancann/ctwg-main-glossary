@@ -1,4 +1,4 @@
-[[def: delegation]]:
+[[def: delegation credential]]:
 
 ~ TODO
 

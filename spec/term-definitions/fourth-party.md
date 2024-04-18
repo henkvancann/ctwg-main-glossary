@@ -1,4 +1,4 @@
-[[def: fourth party]]:
+[[def: functional identity]]:
 
-~ A [[ref: party]] that is not directly involved in the trust relationship between a [[ref: first party]] and a [[ref: second party]], but provides supporting services exclusively to the [[ref: first party]] (in contrast with a [[ref: third party]], who in most cases provides supporting services to the [[ref: second party]]). In its strongest form, a [[ref: fourth party]] has a [[ref: fiduciary]] relationship with the [[ref: first party]].
+~ A set of [[ref: identity data]], such as a [[ref: credential]], that is [[ref: issued]] not for the purpose of establishing a [[ref: foundational identity]] for the subject, but for the purpose of establishing other attributes, qualifications, or capabilities of the subject. Loyalty cards, library cards, and employee IDs are all examples of functional identities. [[ref: Foundational identities]] are often used to provide [[ref: identity binding]] for functional identities.
 

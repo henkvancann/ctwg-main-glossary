@@ -1,8 +1,6 @@
-[[def: trust decision]]:
+[[def: trust domain]]:
 
-~ A decision that a [[ref: party]] needs to make about whether to engage in a specific interaction or [[ref: transaction]] with another [[ref: entity]] that involves real or perceived [[ref: risks]].
+~ A [[ref: security domain]] defined by a computer hardware or software architecture, a [[ref: security policy]], or a [[ref: trust community]], typically via a [[ref: trust framework]] or [[ref: governance framework]].
 
-~ See also: [[ref: transitive trust decision]].
-
-~ For more information, see: [Design Principles for the ToIP Stack](https://trustoverip.org/our-work/design-principles/).
+~ See also: [[ref: trust context]], [[ref: digital trust ecosystem]].
 

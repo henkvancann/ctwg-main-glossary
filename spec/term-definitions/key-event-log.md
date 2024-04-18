@@ -1,6 +1,8 @@
-[[def: key event log]]:
+[[def: Key Event Receipt Infrastructure]]:
 
-~ An ordered sequence of [[ref: records]] of [[ref: key events]].
+~ A decentralized permissionless [[ref: key management]] architecture.
 
-~ Note: Key event logs are a fundamental data structure in [[ref: KERI]].
+~ Also known as: KERI.
+
+~ For more information, see: <https://keri.one/>, [ToIP ACDC Task Force](https://wiki.trustoverip.org/display/HOME/ACDC+%28Authentic+Chained+Data+Container%29+Task+Force)
 

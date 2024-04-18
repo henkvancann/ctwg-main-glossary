@@ -1,6 +1,6 @@
-[[def: ephemeral connection]]:
+[[def: expression language]]:
 
-~ A [[ref: connection]] that only exists for the duration of a single [[ref: communication session]] or [[ref: transaction]].
+~ A language for creating a computer-interpretable ([[ref: machine-readable]]) representation of specific [[ref: knowledge]].
 
-~ Contrast with: [[ref: persistent connection]].
+~ Source: [Wikipedia](https://en.wikipedia.org/wiki/Expression_language).
 

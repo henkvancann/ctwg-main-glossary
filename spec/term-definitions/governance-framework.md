@@ -1,8 +1,6 @@
-[[def: governance framework]]:
+[[def: governance graph]]:
 
-~ A collection of one or more [[ref: governance documents]] published by the [[ref: governing body]] of a [[ref: trust community]].
+~ A graph of the [[ref: governance]] relationships between [[ref: entities]] with a [[ref: trust community]]. A governance graph shows which [[ref: nodes]] are the [[ref: governing bodies]] and which are the [[ref: governed parties]]. In some cases, a governance graph can be traversed by making queries to one or more [[ref: trust registries]].Note: a [[ref: party]] can play both [[ref: roles]] and also be a participant in multiple [[ref: governance frameworks]].
 
-~ Also known as: [[ref: trust framework]].
-
-~ Note: In the [[ref: digital identity]] industry specifically, a governance framework is better known as a [[ref: trust framework]]. ToIP-conformant governance frameworks conform to the [[ref: ToIP Governance Architecture Specification]] and follow the [[ref: ToIP Governance Metamodel]].
+~ See also: [[ref: authorization graph]], [[ref: reputation graph]], [[ref: trust graph]].
 

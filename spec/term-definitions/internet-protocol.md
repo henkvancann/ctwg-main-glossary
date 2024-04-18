@@ -1,10 +1,10 @@
-[[def: Internet Protocol]]:
+[[def: Internet protocol suite]]:
 
-~ The Internet Protocol (IP) is the network layer [[ref: communications]] protocol in the Internet protocol suite (also known as the [[ref: TCP/IP]] suite) for relaying [[ref: datagrams]] across network boundaries. Its [[ref: routing]] function enables internetworking, and essentially establishes the Internet. IP has the task of delivering [[ref: packets]] from the source host to the destination host solely based on the [[ref: IP addresses]] in the packet headers. For this purpose, IP defines [[ref: packet]] structures that encapsulate the data to be delivered. It also defines addressing methods that are used to label the datagram with source and destination information.
+~ The Internet protocol suite, commonly known as [[ref: TCP/IP]], is a framework for organizing the set of [[ref: communication]] protocols used in the Internet and similar computer networks according to functional criteria. The foundational protocols in the suite are the [[ref: Transmission Control Protocol]] (TCP), the [[ref: User Datagram Protocol]] (UDP), and the [[ref: Internet Protocol]] (IP).
 
-~ Source: [Wikipedia](https://en.wikipedia.org/wiki/Internet_Protocol).
+~ Source: [Wikipedia](https://en.wikipedia.org/wiki/Internet_protocol_suite)
 
-~ Also known as: [[ref: IP]].
+~ Also known as: [[ref: TCP/IP]].
 
-~ See also: [[ref: Transmission Control Protocol]], [[ref: User Datagram Protocol]].
+~ See also: [[ref: protocol stack]].
 

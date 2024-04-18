@@ -1,4 +1,6 @@
-[[def: locus of control]]:
+[[def: machine-readable]]:
 
-~ The set of computing systems under a [[ref: party’s]] direct control, where [[ref: messages]] and [[ref: data]] do not cross [[ref: trust boundaries]].
+~ Information written in a computer language or [[ref: expression language]] so that it can be read and processed by a computing device.
+
+~ Contrast with: [[ref: human-readable]].
 

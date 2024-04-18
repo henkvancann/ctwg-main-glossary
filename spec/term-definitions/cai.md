@@ -1,4 +1,4 @@
-[[def: CAI]]:
+[[def: certification authority]]:
 
-~ See: [[ref: Content Authenticity Initiative]].
+~ See: [[ref: certificate authority]].
 

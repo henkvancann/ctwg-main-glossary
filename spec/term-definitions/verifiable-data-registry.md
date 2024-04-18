@@ -1,12 +1,16 @@
-[[def: verification]]:
+[[def: verifier (of a claim or credential)]]:
 
-~ An [[ref: action]] an [[ref: agent]] (of a [[ref: principal]]) performs to determine the [[ref: authenticity]] of a [[ref: claim]] or other digital object using a [[ref: cryptographic key]].
+~ A [[ref: role]] an [[ref: agent]] performs to perform [[ref: verification]] of one or more [[ref: proofs]] of the [[ref: claims]] in a [[ref: digital credential]].
 
-~ See also: [[ref: validation]].
+~ See also: [[ref: relying party]]; [[ref: issuer]], [[ref: holder]].
 
 ~ Mental model: [W3C Verifiable Credentials Data Model Roles & Information Flows](https://www.w3.org/TR/vc-data-model/#roles)
 
 ~ Supporting definitions:
 
-~ [eSSIF-Lab](https://essif-lab.github.io/framework/docs/essifLab-glossary#verify): The act, by or on behalf of a [party](https://essif-lab.github.io/framework/docs/terms/party), of determining whether that data is authentic (i.e. originates from the [party](https://essif-lab.github.io/framework/docs/terms/party) that authored it), timely (i.e. has not expired), and conforms to other specifications that apply to its structure.
+~ [W3C VC](https://www.w3.org/TR/vc-data-model/#terminology): A role an [entity](https://www.w3.org/TR/vc-data-model/#dfn-entities) performs by receiving one or more [verifiable credentials](https://www.w3.org/TR/vc-data-model/#dfn-verifiable-credentials), optionally inside a [verifiable presentation](https://www.w3.org/TR/vc-data-model/#dfn-verifiable-presentations) for processing. Other specifications might refer to this concept as a [[ref: relying party]].
+
+~ [eSSIF-Lab](https://essif-lab.github.io/framework/docs/essifLab-glossary#verifier): a component that implements the [capability](https://essif-lab.github.io/framework/docs/terms/capability) to request [peer agents](https://essif-lab.github.io/framework/docs/terms/peer-agent) to present (provide) data from credentials (of a specified kind, issued by specified [parties](https://essif-lab.github.io/framework/docs/terms/party)), and to verify such responses (check structure, signatures, dates), according to its [principal](https://essif-lab.github.io/framework/docs/terms/principal)'s [verifier policy](https://essif-lab.github.io/framework/docs/terms/verifier-policy).
+
+~ [NIST](https://csrc.nist.gov/glossary/term/verifier) The entity that verifies the authenticity of a digital signature using the public key.
 

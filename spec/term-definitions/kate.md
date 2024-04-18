@@ -1,4 +1,4 @@
-[[def: KATE]]:
+[[def: KERI]]:
 
-~ See: [[ref: keys-at-the-edge]].
+~ See: [[ref: Key Event Receipt Infrastructure]].
 

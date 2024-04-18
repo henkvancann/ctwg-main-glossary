@@ -1,8 +1,12 @@
-[[def: ToIP Trust Spanning Protocol]]:
+[[def: transaction]]:
 
-~ The ToIP Layer 2 protocol for [[ref: verifiable messaging]] that implements the [[ref: trust spanning layer]] of the [[ref: ToIP stack]].  The ToIP Trust Spanning Protocol enables [[ref: actors]] in different digital [[ref: trust domains]] to interact in a similar way to how the Internet Protocol (IP) enables devices on different local area networks to exchange data.
+~ A discrete event between a user and a system that supports a business or programmatic purpose. A digital system may have multiple categories or types of transactions, which may require separate analysis within the overall digital identity [[ref: risk assessment]].
 
-~ Mental model: [[ref: hourglass model,]] see the [Design Principles for the ToIP Stack](https://trustoverip.org/permalink/Design-Principles-for-the-ToIP-Stack-V1.0-2022-11-17.pdf).
+~ Source: [NIST-CSRC](https://csrc.nist.gov/glossary/term/transaction).
 
-~ For more information, see: [Section 7.3](https://github.com/trustoverip/TechArch/blob/main/spec.md#73-layer-2-trust-spanning) of the [[ref: ToIP Technology Architecture Specification]] and the [Trust Spanning Protocol Task Force](https://wiki.trustoverip.org/display/HOME/ToIP+Trust+Spanning+Protocol+Specification).
+~ See also: [[ref: connection]].
+
+~ Supporting definitions:
+
+~ eSSIF-Lab: the exchange of goods, services, funds, or data between some [parties](https://essif-lab.github.io/framework/docs/terms/party) (called [participants](https://essif-lab.github.io/framework/docs/terms/participant) of the [transaction](https://essif-lab.github.io/framework/docs/terms/transaction)).
 

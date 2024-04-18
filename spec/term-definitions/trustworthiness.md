@@ -1,4 +1,4 @@
-[[def: TTA]]:
+[[def: TTP]]:
 
-~ See: [[ref: trusted timestamp authority]].
+~ See: [[ref: trusted third party]].
 

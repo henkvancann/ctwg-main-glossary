@@ -1,4 +1,6 @@
-[[def: ToIP endpoint]]:
+[[def: ToIP Governance Architecture Specification]]:
 
-~ An [[ref: endpoint]] that communicates via the [[ref: ToIP Trust Spanning Protocol]] as described in the [[ref: ToIP Technology Architecture Specification]].
+~ The specification defining the [[ref: requirements]] for the [[ref: ToIP Governance Stack]] published by the [[ref: ToIP Foundation]].
+
+~ For more information, see: <https://trustoverip.org/our-work/deliverables/>.
 

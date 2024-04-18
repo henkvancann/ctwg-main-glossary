@@ -1,4 +1,6 @@
-[[def: ToIP Governance Metamodel]]:
+[[def: ToIP Governance Stack]]:
 
-~ A structural model for [[ref: ToIP governance frameworks]] that specifies the recommended [[ref: governance documents]] that should be included depending on the [[ref: objectives]] of the [[ref: trust community]].
+~ The governance half of the four layer [[ref: ToIP stack]] as defined by the [[ref: ToIP Governance Architecture Specification]].
+
+~ See also: [[ref: ToIP Technology Stack]].
 

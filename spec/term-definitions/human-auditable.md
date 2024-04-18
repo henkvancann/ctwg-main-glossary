@@ -1,6 +1,6 @@
-[[def: human auditable]]:
+[[def: human experience]]:
 
-~ A process or procedure whose [[ref: compliance]] with the [[ref: policies]] in a [[ref: trust framework]] or [[ref: governance framework]] can only be [[ref: verified]] by a human performing an [[ref: audit]]. Human auditability is a primary goal of the [[ref: ToIP Governance Stack]].
+~ The processes, patterns and rituals of acquiring [[ref: knowledge]] or skill from doing, seeing, or feeling things as a [[ref: natural person.]] In the context of decentralized digital trust infrastructure, the direct experience of a [[ref: natural person]] using [[ref: trust applications]] to make [[ref: trust decisions]] within one or more [[ref: digital trust ecosystems]].
 
-~ Contrast with: [[ref: cryptographically verifiable]].
+~ Note: Human experience includes social experiences (e.g., rituals, behaviors, ceremonies and rites of passage), as well as customer experience, worker or employee experience, and user experience.
 

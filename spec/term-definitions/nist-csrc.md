@@ -1,6 +1,4 @@
-[[def: node]]:
+[[def: non-custodial wallet]]:
 
-~ In telecommunications networks, a node (Latin: nodus, ‘knot’) is either a redistribution point or a [[ref: communication endpoint]]. The definition of a node depends on the network and [[ref: protocol layer]] referred to. A physical network node is an electronic device that is attached to a network, and is capable of creating, receiving, or transmitting information over a [[ref: communication channel]].
-
-~ Source: [Wikipedia](https://en.wikipedia.org/wiki/Node_\(networking\)).
+~ A [[ref: digital wallet]] that is directly in the control of the [[ref: holder]], usually because the holder is the [[ref: device controller]] of the device hosting the [[ref: digital wallet]] (smartcard, smartphone, tablet, laptop, desktop, car, etc.) A [[ref: digital wallet]] that is in the custody of a [[ref: third party]] is called a [[ref: custodial wallet]].
 

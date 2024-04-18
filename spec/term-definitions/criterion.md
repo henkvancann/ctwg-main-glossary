@@ -1,4 +1,6 @@
-[[def: criterion]]:
+[[def: cryptographic binding]]:
 
-~ In the context of [[ref: terminology]], a written description of a [[ref: concept]] that anyone can evaluate to determine whether or not an [[ref: entity]] is an instance or example of that [[ref: concept]]. Evaluation leads to a yes/no result.
+~ Associating two or more related elements of information using cryptographic techniques.
+
+~ Source: [NIST-CSRC](https://csrc.nist.gov/glossary/term/cryptographic_binding).
 
