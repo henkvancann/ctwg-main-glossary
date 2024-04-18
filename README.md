@@ -21,3 +21,15 @@ All Trust Over IP Foundation Technical Stack Working Group deliverables are publ
 #### Getting involved
 
 Join a community of individuals and organizations solving the toughest technical and human-centric problems in digital trust. https://trustoverip.org/get-involved/membership/
+
+
+#### SpecUp Impacts
+
+The shift to using SpecUp has some immediate impacts:
+
+* Finding "the definition" via the published repository is not simple as there is no index of terms. 
+* Explanatory text in a term requires a simpler definition to be added for use by `ref:` and `xref:` tags. For example the following required the addiiton of a simple `authentication` term in order to maintain the explanatory text in the heading: 
+```
+[[def: authentication (of a user; process; or device), authentication]]:
+~ Verifying the [[ref: identity]] of a user, process, or device, often as a prerequisite to allowing access to resources in an information system.
+``` 

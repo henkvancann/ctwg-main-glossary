@@ -95,6 +95,11 @@
 
 ~ See also: [[ref: trust basis]], [[ref: verifiability]].
 
+
+[[def: assurance level, assurance levels]]:
+~ A level of confidence in a [[ref: claim]] that may be relied on by others. Different types of assurance levels are defined for different types of trust assurance mechanisms. Examples include [[ref: authenticator assurance level]], [federation assurance level](federation-assurance-level), and [identity assurance level](identity-assurance-level).
+
+
 [[def: appropriate friction]]:
 
 ~ A user-experience design principle for information systems (such as digital wallets) specifying that the level of attention required of the [[ref: holder]] for a particular transaction should provide a reasonable opportunity for an informed choice by the [[ref: holder]].
@@ -151,12 +156,7 @@
 
 ~ See also: [[ref: human auditable]].
 
-[[def: assurance level]]:
-
-~ A level of confidence in a [[ref: claim]] that may be relied on by others. Different types of assurance levels are defined for different types of trust assurance mechanisms. Examples include [[ref: authenticator assurance level]], [federation assurance level](federation-assurance-level), and [identity assurance level](identity-assurance-level).
-
-[[def: authentication (of a user; process; or device)]]:
-
+[[def: authentication(of a user; process; or device), authentication]]:
 ~ Verifying the [[ref: identity]] of a user, process, or device, often as a prerequisite to allowing access to resources in an information system.
 
 ~ Source: [NIST-CSRC](https://csrc.nist.gov/glossary/term/authentication).
@@ -639,8 +639,8 @@
 
 ~ See: [[ref: digital vault]].
 
-[[def: decentralized identifier]]:
 
+[[def: decentralized identifier, decentralized identifiers, DID, DIDs]]:
 ~ A globally unique persistent [[ref: identifier]] that does not require a centralized [[ref: registration]] [[ref: authority]] and is often generated and/or registered cryptographically. The generic format of a DID is defined in section [3.1 DID Syntax](https://www.w3.org/TR/did-core/#did-syntax) of the [W3C Decentralized Identifiers (DIDs) 1.0](https://www.w3.org/TR/did-core/) specification. A specific DID scheme is defined in a [[ref: DID method]] specification.
 
 ~ Source: [W3C DID](https://www.w3.org/TR/did-core/#terminology).
@@ -671,7 +671,10 @@
 
 ~ Also known as: DWN.
 
-~ For more information, see: <https://identity.foundation/decentralized-web-node/spec/>
+~ For more information, see: <https://identity.foundation/decentralized-web-node/spec/> 
+
+
+
 
 [[def: deceptive pattern]]:
 
@@ -729,9 +732,6 @@
 
 ~ Source: [Wikipedia](https://en.wikipedia.org/wiki/Dictionary).
 
-[[def: DID]]:
-
-~ See: [[ref: decentralized identifier]].
 
 [[def: DID controller]]:
 
@@ -891,9 +891,10 @@
 
 ~ See: [[ref: digital ecosystem]].
 
-[[def: ecosystem governance framework]]:
-
+[[def: ecosystem governance framework, EGF]]:
 ~ A [[ref: governance framework]] for a [[ref: digital trust ecosystem]]. An ecosystem governance framework may incorporate, aggregate, or reference other types of governance frameworks such as a [[ref: credential governance framework]] or a [[ref: utility governance framework]].
+
+- Also known as: [[ref: EGF]]
 
 [[def: eIDAS]]:
 
@@ -1101,8 +1102,7 @@
 
 ~ A use case specified in a [[ref: governance document]] that results in specific [[ref: governance requirements]] within that [[ref: governance framework]]. Governed use cases may optionally be discovered via a [[ref: trust registry]] authorized by the relevant [[ref: governance framework]].
 
-[[def: governed party]]:
-
+[[def: governed party, governed parties]]:
 ~ A [[ref: party]] whose [[ref: role(s)]] in a [[ref: trust community]] is governed by the [[ref: governance requirements]] in a [[ref: governance framework]].
 
 [[def: governed information]]:
@@ -2081,8 +2081,7 @@
 
 ~ Source: [Wikipedia](https://en.wikipedia.org/wiki/Reputation_system).
 
-[[def: requirement]]:
-
+[[def: requirement, requirements]]:
 ~ A specified condition or behavior to which a system needs to [[ref: comply]]. [[ref: Technical requirements]] are defined in [[ref: technical specifications]] and implemented in computer systems to be executed by software [[ref: actors]]. [[ref: Governance requirements]] are defined in [[ref: governance documents]] that specify [[ref: policies]] and procedures to be executed by human [[ref: actors]]. In ToIP architecture, requirements are expressed using the keywords defined in Internet RFC 2119.
 
 ~ See also: [[ref: mandatory]], [[ref: recommended]], [[ref: optional]].
@@ -2272,6 +2271,8 @@
 ~ [eSSIF-Lab](https://essif-lab.github.io/framework/docs/essifLab-glossary#ssi-self-sovereign-identity): SSI (Self-Sovereign Identity) is a term that has many different interpretations, and that we use to refer to concepts/ideas, architectures, processes and technologies that aim to support (autonomous) [parties](https://essif-lab.github.io/framework/docs/terms/party) as they negotiate and execute electronic [transactions](https://essif-lab.github.io/framework/docs/terms/transaction) with one another.
 
 ~ [Wikipedia](https://en.wikipedia.org/wiki/Self-sovereign_identity): Self-sovereign identity (SSI) is an approach to [digital identity](https://en.wikipedia.org/wiki/Digital_identity) that gives individuals control over the information they use to prove who they are to [websites](https://en.wikipedia.org/wiki/Website), services, and [applications](https://en.wikipedia.org/wiki/Application_software) across the web. Without SSI, individuals with persistent accounts (identities) across the [internet](https://en.wikipedia.org/wiki/Internet) must rely on a number of large identity providers, such as [Facebook](https://en.wikipedia.org/wiki/Facebook) (Facebook Connect) and [Google](https://en.wikipedia.org/wiki/Google) (Google Sign-In), that have control of the information associated with their identity.
+
+
 
 [[def: sensitive data]]:
 
@@ -2565,6 +2566,9 @@
 
 ~ A [[ref: message]] communicated between [[ref: ToIP endpoints]] using the [[ref: ToIP stack]].
 
+[[def: ToIP specification]]:
+~ A specification published by the [[ref: ToIP Foundation]]. Specifications may be in one of three states: Draft Deliverable, Working Group Approved Deliverable, or ToIP Approved Deliverables
+
 [[def: ToIP stack]]:
 
 ~ The layered architecture for decentralized digital trust infrastructure defined by the [[ref: ToIP Foundation]]. The ToIP stack is a dual stack consisting of two halves: the [[ref: ToIP Technology Stack]] and the [[ref: ToIP Governance Stack]]. The four layers in the ToIP stack are [[ref: ToIP Layer 1]], [[ref: ToIP Layer 2]], [[ref: ToIP Layer 3]], and [[ref: ToIP Layer 4]].
@@ -2701,9 +2705,8 @@
 
 ~ For more information, see: [Design Principles for the ToIP Stack](https://trustoverip.org/our-work/design-principles/).
 
-[[def: trust community]]:
-
-~ A set of [[ref: parties]] who collaborate to achieve a mutual set of [[ref: trust objectives]].
+[[def: trust community, trust communities]]:
+~ A set of [[ref: parties]] who collaborate to achieve a mutual set of [[ref: trust objectives]]. 
 
 ~ See also: [[ref: digital trust ecosystem]], [[ref: ToIP trust community]].
 
@@ -3011,11 +3014,11 @@
 
 ~ Note: There is an [earlier definition in the W3C VC 1.1. glossary](https://www.w3.org/TR/vc-data-model/#terminology) that is not as mature (it is not clear about the use of cryptographically verifiable data structures). We do not recommend that definition.
 
-[[def: verifiable identifier]]:
-
+[[def: verifiable identifier, VID]]:
 ~ An [[ref: identifier]] over which the [[ref: controller]] can provide cryptographic [[ref: proof of control]].
 
 ~ See also: [[ref: decentralized identifier]], [[ref: autonomous identifier]].
+- Also known as: [[ref:VID]]
 
 [[def: verifiable message]]:
 
