@@ -1,5 +1,9 @@
 # How to split a Markdown file into multiple files
 
+## General info
+
+The JSON file `specs.unsplit.json` is a one time back-up of `specs.json`.
+
 ## One time build
 
 First, integrate the new functionality. This is a one time action:
