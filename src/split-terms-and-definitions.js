@@ -68,9 +68,12 @@ module.exports = function () {
   // // write fileNames to a file
   // fs.writeFileSync("./fileNames.txt", fileNames.join("\n"));
 
-  // // deduplicate fileNames
-  // fileNamesDeduplicated = [...new Set(fileNames)];
+  // // END Not used at the moment.
 
+  // deduplicate fileNames
+  fileNamesDeduplicated = [...new Set(fileNames)];
+
+  // // BEGIN Not used at the moment.
   // fs.writeFileSync("./fileNamesDeduplicated.txt", fileNamesDeduplicated.join("\n"));
 
   // function findUniqueElementsWithCount(array1, array2) {
