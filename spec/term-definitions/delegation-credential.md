@@ -1,0 +1,4 @@
+[[def: delegation credential]]:
+
+~ TODO
+
