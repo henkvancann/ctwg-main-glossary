@@ -6,8 +6,5 @@
 
 ~ Also known as: DWN.
 
-~ For more information, see: <https://identity.foundation/decentralized-web-node/spec/> 
-
-
-
+~ For more information, see: <https://identity.foundation/decentralized-web-node/spec/>
 

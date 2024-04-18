@@ -95,11 +95,9 @@
 
 ~ See also: [[ref: trust basis]], [[ref: verifiability]].
 
-
 [[def: assurance level, assurance levels]]:
 
 ~ A level of confidence in a [[ref: claim]] that may be relied on by others. Different types of assurance levels are defined for different types of trust assurance mechanisms. Examples include [[ref: authenticator assurance level]], [federation assurance level](federation-assurance-level), and [identity assurance level](identity-assurance-level).
-
 
 [[def: appropriate friction]]:
 
@@ -641,7 +639,6 @@
 
 ~ See: [[ref: digital vault]].
 
-
 [[def: decentralized identifier, decentralized identifiers, DID, DIDs]]:
 
 ~ A globally unique persistent [[ref: identifier]] that does not require a centralized [[ref: registration]] [[ref: authority]] and is often generated and/or registered cryptographically. The generic format of a DID is defined in section [3.1 DID Syntax](https://www.w3.org/TR/did-core/#did-syntax) of the [W3C Decentralized Identifiers (DIDs) 1.0](https://www.w3.org/TR/did-core/) specification. A specific DID scheme is defined in a [[ref: DID method]] specification.
@@ -674,10 +671,7 @@
 
 ~ Also known as: DWN.
 
-~ For more information, see: <https://identity.foundation/decentralized-web-node/spec/> 
-
-
-
+~ For more information, see: <https://identity.foundation/decentralized-web-node/spec/>
 
 [[def: deceptive pattern]]:
 
@@ -734,7 +728,6 @@
 ~ A dictionary is a listing of lexemes (words or [[ref: terms]]) from the lexicon of one or more specific languages, often arranged alphabetically, which may include information on [[ref: definitions]], usage, etymologies, pronunciations, translation, etc. It is a lexicographical reference that shows inter-relationships among the [[ref: data]]. Unlike a [[ref: glossary]], a dictionary may provide multiple [[ref: definitions]] of a [[ref: term]] depending on its [[ref: scope]] or context.
 
 ~ Source: [Wikipedia](https://en.wikipedia.org/wiki/Dictionary).
-
 
 [[def: DID controller]]:
 
@@ -2278,8 +2271,6 @@
 
 ~ [Wikipedia](https://en.wikipedia.org/wiki/Self-sovereign_identity): Self-sovereign identity (SSI) is an approach to [digital identity](https://en.wikipedia.org/wiki/Digital_identity) that gives individuals control over the information they use to prove who they are to [websites](https://en.wikipedia.org/wiki/Website), services, and [applications](https://en.wikipedia.org/wiki/Application_software) across the web. Without SSI, individuals with persistent accounts (identities) across the [internet](https://en.wikipedia.org/wiki/Internet) must rely on a number of large identity providers, such as [Facebook](https://en.wikipedia.org/wiki/Facebook) (Facebook Connect) and [Google](https://en.wikipedia.org/wiki/Google) (Google Sign-In), that have control of the information associated with their identity.
 
-
-
 [[def: sensitive data]]:
 
 ~ [[ref: Personal data]] that a reasonable [[ref: person]] would view from a privacy protection standpoint as requiring special care above and beyond other [[ref: personal data]].
@@ -2714,7 +2705,7 @@
 
 [[def: trust community, trust communities]]:
 
-~ A set of [[ref: parties]] who collaborate to achieve a mutual set of [[ref: trust objectives]]. 
+~ A set of [[ref: parties]] who collaborate to achieve a mutual set of [[ref: trust objectives]].
 
 ~ See also: [[ref: digital trust ecosystem]], [[ref: ToIP trust community]].
 

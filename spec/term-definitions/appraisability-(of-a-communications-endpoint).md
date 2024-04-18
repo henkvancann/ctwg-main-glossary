@@ -4,4 +4,3 @@
 
 ~ See also: [[ref: trust basis]], [[ref: verifiability]].
 
-

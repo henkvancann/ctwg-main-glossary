@@ -1,6 +1,6 @@
 [[def: trust community, trust communities]]:
 
-~ A set of [[ref: parties]] who collaborate to achieve a mutual set of [[ref: trust objectives]]. 
+~ A set of [[ref: parties]] who collaborate to achieve a mutual set of [[ref: trust objectives]].
 
 ~ See also: [[ref: digital trust ecosystem]], [[ref: ToIP trust community]].
 
