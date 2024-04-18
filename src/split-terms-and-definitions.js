@@ -62,52 +62,56 @@ module.exports = function () {
 
   fileNames.sort();
 
-  // write fileNames to a file
-  fs.writeFileSync("./fileNames.txt", fileNames.join("\n"));
 
-  // deduplicate fileNames
-  fileNamesDeduplicated = [...new Set(fileNames)];
+  // // BEGIN Not used at the moment.
 
-  fs.writeFileSync("./fileNamesDeduplicated.txt", fileNamesDeduplicated.join("\n"));
+  // // write fileNames to a file
+  // fs.writeFileSync("./fileNames.txt", fileNames.join("\n"));
 
-  function findUniqueElementsWithCount(array1, array2) {
-    // Function to count occurrences of each element in the array
-    const countElements = (array) => {
-      return array.reduce((acc, curr) => {
-        acc[curr] = (acc[curr] || 0) + 1;
-        return acc;
-      }, {});
-    };
+  // // deduplicate fileNames
+  // fileNamesDeduplicated = [...new Set(fileNames)];
 
-    // Count elements in both arrays
-    const count1 = countElements(array1);
-    const count2 = countElements(array2);
+  // fs.writeFileSync("./fileNamesDeduplicated.txt", fileNamesDeduplicated.join("\n"));
 
-    // Function to find differences in counts
-    const findDifferences = (counts1, counts2) => {
-      const differences = {};
-      // Iterate over counts1 to find elements not in counts2 or with different counts
-      Object.keys(counts1).forEach(key => {
-        if (!counts2[key] || counts1[key] > counts2[key]) {
-          differences[key] = counts1[key] - (counts2[key] || 0);
-        }
-      });
-      return differences;
-    };
+  // function findUniqueElementsWithCount(array1, array2) {
+  //   // Function to count occurrences of each element in the array
+  //   const countElements = (array) => {
+  //     return array.reduce((acc, curr) => {
+  //       acc[curr] = (acc[curr] || 0) + 1;
+  //       return acc;
+  //     }, {});
+  //   };
 
-    // Find differences from both perspectives
-    const uniqueInFirst = findDifferences(count1, count2);
-    const uniqueInSecond = findDifferences(count2, count1);
+  //   // Count elements in both arrays
+  //   const count1 = countElements(array1);
+  //   const count2 = countElements(array2);
 
-    // Combine results and return
-    return {
-      uniqueInFirst,
-      uniqueInSecond
-    };
-  }
+  //   // Function to find differences in counts
+  //   const findDifferences = (counts1, counts2) => {
+  //     const differences = {};
+  //     // Iterate over counts1 to find elements not in counts2 or with different counts
+  //     Object.keys(counts1).forEach(key => {
+  //       if (!counts2[key] || counts1[key] > counts2[key]) {
+  //         differences[key] = counts1[key] - (counts2[key] || 0);
+  //       }
+  //     });
+  //     return differences;
+  //   };
 
-  // // Not used at the moment.
+  //   // Find differences from both perspectives
+  //   const uniqueInFirst = findDifferences(count1, count2);
+  //   const uniqueInSecond = findDifferences(count2, count1);
+
+  //   // Combine results and return
+  //   return {
+  //     uniqueInFirst,
+  //     uniqueInSecond
+  //   };
+  // }
+
   // const uniqueElementsWithCount = findUniqueElementsWithCount(fileNames, fileNamesDeduplicated);
+  // // END Not used at the moment.
+
 
   function splitContentIntoFiles(content) {
     const sections = content.split(config.splitString).slice(1); // slice(1) to remove the first part before the first heading
